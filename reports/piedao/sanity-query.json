@@ -1,0 +1,2496 @@
+[
+    {
+        "blockNumber": 10278625,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.000000000000000000", "0.134254647691584063"],
+        "addresses": [
+            "0x434ded09939b64cd76baa81f9a394283d4c71f05",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10247331,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.005777084826281022",
+            "17.525028312901487541",
+            "0.000000000000000000"
+        ],
+        "addresses": [
+            "0x381479aef601d864a0b3882e96e23438ff3011e5",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xbc23e50c2287f481288f29fecd5ca6ff00c72083"
+        ]
+    },
+    {
+        "blockNumber": 10289680,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.524103875233113353",
+            "0.000000000000000000",
+            "0.236254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x4594ab61b53142dafe3a0762cca6ac00d6cf71f3",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10275334,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.510761404866535430",
+            "0.000000169134701467",
+            "22.664369072769309736",
+            "0.114254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10329877,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.023921848340342126",
+            "0.004678552721686578",
+            "0.005858253939903577",
+            "22.043858495965318882",
+            "0.000243720018220016"
+        ],
+        "addresses": [
+            "0x1f427a6fcdb95a7393c58552093e10a932890fa8",
+            "0x28deb2eaddf8dc85f51027d42f8b16ca3efb5462",
+            "0x381479aef601d864a0b3882e96e23438ff3011e5",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xd764bb9822ee16097140031b017640e7a293e57f"
+        ]
+    },
+    {
+        "blockNumber": 10269728,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.000000000000000007", "22.657743822798063259"],
+        "addresses": [
+            "0xc5ccfe9a0c45f73475e747b30d816af6c6ad1970",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10267426,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.507897902817473623", "0.003021310482939452"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xecfc6e2232bdf6c9ae42aeb2b123a760e45517d4"
+        ]
+    },
+    {
+        "blockNumber": 10324726,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["10006.000000000000000000"],
+        "addresses": ["0xc5417a0fe9a7f41864fddfd639980f58fa511cc4"]
+    },
+    {
+        "blockNumber": 10279523,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["466.225430382181555315", "0.000000000000000000"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x1e17a75616cd74f5846b1b71622aa8e10ea26cc0"
+        ]
+    },
+    {
+        "blockNumber": 10328585,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["3.952712000000000000"],
+        "addresses": ["0x635b230c3fdf6a466bb6dc3b9b51a8ceb0659b67"]
+    },
+    {
+        "blockNumber": 10226146,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.000000000000000014", "17.528382760298276209"],
+        "addresses": [
+            "0xc5ccfe9a0c45f73475e747b30d816af6c6ad1970",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10205823,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.507841511362014742", "0.008931422277852499"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x951763756df8811575f2c7f7cf8761b74147ea7d"
+        ]
+    },
+    {
+        "blockNumber": 10295916,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["0.000000000000000000", "5999.000000000000000000"],
+        "addresses": [
+            "0xadfafe698cba74f0530fc66331649aa6be40656b",
+            "0xbee891997340477f9479fc9ea8f29d9f0ff2fb34"
+        ]
+    },
+    {
+        "blockNumber": 10325912,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["1500.000000000000000000"],
+        "addresses": ["0x80bb0d87dce1a94329586ce9c7d39692bbf44af6"]
+    },
+    {
+        "blockNumber": 10279499,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.524101086534542269", "0.072254647691584063"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10279373,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["500.000000000000000000", "0.000000000000000000"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x1e17a75616cd74f5846b1b71622aa8e10ea26cc0"
+        ]
+    },
+    {
+        "blockNumber": 10325108,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["205949.999999999999829268", "250.000000000000113314"],
+        "addresses": [
+            "0x302abcedf32b8534970a70c21eb848fc9af19f31",
+            "0x5398850a9399da87624874704feaa8a9c6c4089b"
+        ]
+    },
+    {
+        "blockNumber": 10324148,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["690.000000000000000000"],
+        "addresses": ["0x48a9f30c4b619aed265e145666abe572a1b27305"]
+    },
+    {
+        "blockNumber": 10291384,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["491.424266291487484552", "0.000000000000000000"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0xba98b69a140c078746219d0bbf0bb3b923483374"
+        ]
+    },
+    {
+        "blockNumber": 10198238,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.513146093877849026",
+            "0.000000161230879564",
+            "17.712970050232869518"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10179118,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.498853476662712668",
+            "0.000000000000000008",
+            "17.502381589853763171",
+            "0.000795208617475357"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xc5ccfe9a0c45f73475e747b30d816af6c6ad1970",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0x51a33a5bba82f8ebd0fe2192a25ca2e60b9dc32f"
+        ]
+    },
+    {
+        "blockNumber": 10227538,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.005578172125420369",
+            "0.000000809185997514",
+            "17.528373182695097849"
+        ],
+        "addresses": [
+            "0x381479aef601d864a0b3882e96e23438ff3011e5",
+            "0xb707bbb632d01a6901fc8fb66d076b9453570bdf",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10232709,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["75.696658000000000000"],
+        "addresses": ["0x434ded09939b64cd76baa81f9a394283d4c71f05"]
+    },
+    {
+        "blockNumber": 10329708,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["30.000000000000000000"],
+        "addresses": ["0x486eaab71360a0e7bade22509a86815b1a2eada2"]
+    },
+    {
+        "blockNumber": 10247208,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["17.451312057040802484", "0.073915168561545710"],
+        "addresses": [
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xbc23e50c2287f481288f29fecd5ca6ff00c72083"
+        ]
+    },
+    {
+        "blockNumber": 10302399,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["0.000000000000000000", "5998.999999999999999999"],
+        "addresses": [
+            "0xbee891997340477f9479fc9ea8f29d9f0ff2fb34",
+            "0x33669137fc9259e547c73d8c15870caed024b8f4"
+        ]
+    },
+    {
+        "blockNumber": 10240094,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.058694357817474085", "17.457009663257045353"],
+        "addresses": [
+            "0xc5ccfe9a0c45f73475e747b30d816af6c6ad1970",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10325583,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["12910.000000000000000000"],
+        "addresses": ["0xc50eaaee441566b4ef4f1e3270d19f24223cddf4"]
+    },
+    {
+        "blockNumber": 10243947,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.000000000000000000", "0.020375443000000000"],
+        "addresses": [
+            "0x8418f91b7ac9eaaea472f1c8a2690121f1054e78",
+            "0xd08131920d9890343f5e2d02fa206a0167b1e235"
+        ]
+    },
+    {
+        "blockNumber": 10198269,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["17.491056879086353368", "0.236254647691584063"],
+        "addresses": [
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10200035,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.514915357393049148",
+            "0.000000166571962809",
+            "17.513671294635977267",
+            "0.196254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10279442,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["435.894628898915821044", "0.000000000000000000"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x3a25473a5098f8b5ce1bd383416801bff28575b9"
+        ]
+    },
+    {
+        "blockNumber": 10202243,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.516552679611537540",
+            "17.536357971824664581",
+            "0.154254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10279497,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.514101086534542269",
+            "22.723029385243590107",
+            "0.082254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10266472,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["1.685510760016129444", "22.670748751873638864"],
+        "addresses": [
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10295303,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["0.000000000000000000", "1000.000000000000000000"],
+        "addresses": [
+            "0xfd6d004e713e809292007c4f70daf12894a2b394",
+            "0xb6d064b1f841dd87191aba57fbc28faa08139126"
+        ]
+    },
+    {
+        "blockNumber": 10325128,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["0.000000000000113314"],
+        "addresses": ["0x5398850a9399da87624874704feaa8a9c6c4089b"]
+    },
+    {
+        "blockNumber": 10324693,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["23352.881055392397018053", "37647.118944607602981947"],
+        "addresses": [
+            "0x0554a200988cf265b3aa35436a903d51fac47112",
+            "0x302abcedf32b8534970a70c21eb848fc9af19f31"
+        ]
+    },
+    {
+        "blockNumber": 10192119,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.497332769688007108",
+            "0.000000085752169997",
+            "17.536497338508301160"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10177062,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.503954320068754812",
+            "17.498748939673387674",
+            "0.000174636889635761",
+            "0.000113483895616416"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xf0b83cd46d3a2c08083813ce4a0004a050f7576d",
+            "0x66ada96594b6379ad2536f5fdc11cce235dd99be"
+        ]
+    },
+    {
+        "blockNumber": 10293925,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["9.577270836244366452"],
+        "addresses": ["0x5b97680e165b4dbf5c45f4ff4241e85f418c66c2"]
+    },
+    {
+        "blockNumber": 10328235,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.052587611866224805", "5.447412388133775195"],
+        "addresses": [
+            "0x7d2f4bcb767eb190aed0f10713fe4d9c07079ee8",
+            "0xeeff6fd32deafe1a9d3258a51c7f952f9ff0b2ce"
+        ]
+    },
+    {
+        "blockNumber": 10323255,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.529546409085607256",
+            "9.500000000000000000",
+            "5.500000000000000000",
+            "0.212254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x2e2cee70d0540f3b87258fcec3c5acf354939d04",
+            "0xeeff6fd32deafe1a9d3258a51c7f952f9ff0b2ce",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10279489,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.523042521753501409", "0.092254647691584063"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10279461,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.513042521753501409",
+            "0.000000174992414257",
+            "22.704087950024630967",
+            "0.102254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10190586,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.000000000000000011", "17.579235851283225717"],
+        "addresses": [
+            "0x01e6fd0ae73d9194b19f9b376065577927a0d5f5",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10198435,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["1.664646858694601470", "17.489999336596092641"],
+        "addresses": [
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10302392,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["491.424266291487484553", "319.860076907064838093"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0xbee891997340477f9479fc9ea8f29d9f0ff2fb34"
+        ]
+    },
+    {
+        "blockNumber": 10329767,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["466600.000000000000000000"],
+        "addresses": ["0xc31db2e710192791b65de43d4b84886a6d770322"]
+    },
+    {
+        "blockNumber": 10198273,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.514587320774017019",
+            "17.505615652190185375",
+            "0.220254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10293940,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["5.577270836244366452"],
+        "addresses": ["0x5b97680e165b4dbf5c45f4ff4241e85f418c66c2"]
+    },
+    {
+        "blockNumber": 10324819,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["100000.000000000000000000"],
+        "addresses": ["0x5398850a9399da87624874704feaa8a9c6c4089b"]
+    },
+    {
+        "blockNumber": 10198072,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.504694922421791472",
+            "0.000000112716730998",
+            "17.600762746748143534",
+            "0.135000000000000017"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0x434ded09939b64cd76baa81f9a394283d4c71f05"
+        ]
+    },
+    {
+        "blockNumber": 10324426,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["61000.000000000000000000"],
+        "addresses": ["0x0554a200988cf265b3aa35436a903d51fac47112"]
+    },
+    {
+        "blockNumber": 10224368,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": [
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "10.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000"
+        ],
+        "addresses": [
+            "0x0554a200988cf265b3aa35436a903d51fac47112",
+            "0x17102711723d3cc400b876173ce205f71ec6c04a",
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x17ff301124080fb84bec04b9567b49fa4e43ef23",
+            "0x1ee10aeaebc6336b813daf9067248fa90de2b589",
+            "0x20c75587792bd5bfbe96abb680e9faea5b3edd9f",
+            "0x2898e036dcaa7a94ea96761193cbe6c54d587bc5",
+            "0x2983a89e018bae9e3eec745cced1be85a59c44c4",
+            "0x2e4de42f0b8ac51d435bd98121af106388d911bd",
+            "0x302abcedf32b8534970a70c21eb848fc9af19f31",
+            "0x3230a79c196958980f058d0dbd5e6a5fd3ea1778",
+            "0x3548fbc04fc033e07e8004904d18fad502f4f307",
+            "0x42d13efa958586ff2d3ec20956d44dad8da55864",
+            "0x434ded09939b64cd76baa81f9a394283d4c71f05",
+            "0x4594ab61b53142dafe3a0762cca6ac00d6cf71f3",
+            "0x486eaab71360a0e7bade22509a86815b1a2eada2",
+            "0x48a9f30c4b619aed265e145666abe572a1b27305",
+            "0x49739691fb5f3992b3f2536f309d955558e75933",
+            "0x4f5f10ad90d3cb4b1be5fa9d3fae507ecf57ddd8",
+            "0x4f862899c42645bec4b73ab20e4d06688f592f6f",
+            "0x4f99632a3ea59a7197ac566a7976d03f51293ec7",
+            "0x5398850a9399da87624874704feaa8a9c6c4089b",
+            "0x5d58518c1902ed78c48d77ebe71feede67419438",
+            "0x5db5286cec9a28d76feb4ee22e0722e6a6912b22",
+            "0x72b0bc97e2b7dfa0f9d376da9fb392d871011313",
+            "0x733428f811d11940ed1168dcc57e21a5660c8f68",
+            "0x7570d3a456e659ab7d475db30a26745e67d6a97b",
+            "0x7b99c763b7b70b05a47db32e78847c3999f671d9",
+            "0x7d2f4bcb767eb190aed0f10713fe4d9c07079ee8",
+            "0xa0f75491720835b36edc92d06ddc468d201e9b73",
+            "0xa38d1a0555287cc7d15e98b5d3aea30aedd08fd8",
+            "0xa698cade532bf7491f0f887284f8e10e2de97198",
+            "0xabf26352aadaaa1cabffb3a55e378bac6bf15791",
+            "0xac39d821bfdc12d2aacea2a940738b96b38d1a75",
+            "0xbd1f7d88c76a86c60d41bddd4819fae404e7151e",
+            "0xc1c73fe851dc103b2662a9b80e5a1c681801cc9d",
+            "0xc31db2e710192791b65de43d4b84886a6d770322",
+            "0xc50eaaee441566b4ef4f1e3270d19f24223cddf4",
+            "0xc5417a0fe9a7f41864fddfd639980f58fa511cc4",
+            "0xd18a54f89603fe4301b29ef6a8ab11b9ba24f139",
+            "0xd68a5ccde1e5273c79cd40711fe4750122cdd865",
+            "0xd8da6bf26964af9d7eed9e03e53415d37aa96045",
+            "0xe1b86131bc69d0237f7243542cb9156fa8f034a8",
+            "0xeeff6fd32deafe1a9d3258a51c7f952f9ff0b2ce",
+            "0xfad4a1f91026e62774a918202572b9be2fdcdb4e",
+            "0xfd6d004e713e809292007c4f70daf12894a2b394",
+            "0x3c6db56038f941583190209a5276ea2530185753",
+            "0xadfafe698cba74f0530fc66331649aa6be40656b",
+            "0xbee891997340477f9479fc9ea8f29d9f0ff2fb34",
+            "0x1e17a75616cd74f5846b1b71622aa8e10ea26cc0",
+            "0x8fb5a496b2b45981e8453702c8fd7ab4189467c8",
+            "0xe4a8e622079493b74651774aa2eb1dff45b52557",
+            "0x46e31f24d784849f1c35127f2ecb6ab5b6d640d6",
+            "0xba98b69a140c078746219d0bbf0bb3b923483374",
+            "0x0841ff0eb875a73ad26ea7a3eb182e8b99abe539",
+            "0x3a25473a5098f8b5ce1bd383416801bff28575b9",
+            "0x12d964f702db7b301765c0066a04ec4fbdb59e3a",
+            "0x80bb0d87dce1a94329586ce9c7d39692bbf44af6",
+            "0x4d6b93d4ccede0954ddc21212af2a8f143e2238e",
+            "0x0773cbc2c55cd6354a61b7bcbca52d9dccd56534",
+            "0x03c2bc72a3e007179e54ffb4563cc235bec8151a",
+            "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
+            "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "0x57ab1e02fee23774580c119740129eac7081e9d3",
+            "0x0000000000085d4780b73119b644ae5ecd22b376",
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "0x3bfda5285416eb06ebc8bc0abf7d105813af06d0",
+            "0xd289986c25ae3f4644949e25bc369e9d8e0caead",
+            "0xf145d905a0705b7d61f103a997cc4d8b14a92ae1",
+            "0x8f53d2b90f5d99bd82e496fbae847b582a6607ef",
+            "0x720e1fa107a1df39db4e78a3633121ac36bec132",
+            "0xe59b150ab850ce59c3be44aaa963fd5239d658f6",
+            "0x00000f2d00b7a76100366c0013c2000595ee0067",
+            "0x01e7f16e17c50d070eb66787f25ce3be405d6038",
+            "0xa9cf3ed132fbe9844613d4934abc5a5fe52c3e9b",
+            "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+            "0xe9b80b4cf85d7709583dff27c1f51b289cd1e152",
+            "0xc8384fa1486f3b956493e589c34a78ffcb625b65",
+            "0xabbb9f579d421a72301abffbfa85b7caa998f7bd",
+            "0x90be78d603b616d52112d4bbb0f3b61db4fb822c",
+            "0x57e5951f7011e1ba6375e5d820b19c7a423f8548",
+            "0x1cf460f5aae276dd939b790c0f02531df4fe0ed9",
+            "0xb6d064b1f841dd87191aba57fbc28faa08139126",
+            "0x33669137fc9259e547c73d8c15870caed024b8f4"
+        ]
+    },
+    {
+        "blockNumber": 10215485,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.519166333409263120", "0.000000000000000000"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xb24b54fe5a3adcb4cb3b27d31b6c7f7e9f6a73a7"
+        ]
+    },
+    {
+        "blockNumber": 10279492,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.512798749925512408", "22.714331721852619968"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10279490,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["461.563176078359739772", "4.662254303821815543"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x1e17a75616cd74f5846b1b71622aa8e10ea26cc0"
+        ]
+    },
+    {
+        "blockNumber": 10329389,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["1000.000000000000000000"],
+        "addresses": ["0x4f5f10ad90d3cb4b1be5fa9d3fae507ecf57ddd8"]
+    },
+    {
+        "blockNumber": 10329051,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["405.000000000000000000"],
+        "addresses": ["0x2983a89e018bae9e3eec745cced1be85a59c44c4"]
+    },
+    {
+        "blockNumber": 10289110,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["4.852143559312537905"],
+        "addresses": ["0x5b97680e165b4dbf5c45f4ff4241e85f418c66c2"]
+    },
+    {
+        "blockNumber": 10271089,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["219.920000000000000000"],
+        "addresses": ["0x3548fbc04fc033e07e8004904d18fad502f4f307"]
+    },
+    {
+        "blockNumber": 10292018,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["29499.000000000000000000"],
+        "addresses": ["0xadfafe698cba74f0530fc66331649aa6be40656b"]
+    },
+    {
+        "blockNumber": 10325412,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["2452.150040620250659051", "215337.849959379749227635"],
+        "addresses": [
+            "0x0554a200988cf265b3aa35436a903d51fac47112",
+            "0x302abcedf32b8534970a70c21eb848fc9af19f31"
+        ]
+    },
+    {
+        "blockNumber": 10278035,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["500.000000000000000000"],
+        "addresses": ["0x1e17a75616cd74f5846b1b71622aa8e10ea26cc0"]
+    },
+    {
+        "blockNumber": 10241589,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "1.655693429617313455",
+            "0.000000000000000015",
+            "17.542736369934262116"
+        ],
+        "addresses": [
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0xc5ccfe9a0c45f73475e747b30d816af6c6ad1970",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10279501,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.514780210606668288",
+            "0.000000176650101816",
+            "22.732350259513776529"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10240091,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["17.515704021074519424", "0.003553171136165341"],
+        "addresses": [
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xf401a7c5469b54eaf88597b92c53a0ece91cc398"
+        ]
+    },
+    {
+        "blockNumber": 10295112,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["2000.000000000000000000", "5999.000000000000000000"],
+        "addresses": [
+            "0x4594ab61b53142dafe3a0762cca6ac00d6cf71f3",
+            "0xadfafe698cba74f0530fc66331649aa6be40656b"
+        ]
+    },
+    {
+        "blockNumber": 10326181,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["1490.000000000000000000"],
+        "addresses": ["0xa698cade532bf7491f0f887284f8e10e2de97198"]
+    },
+    {
+        "blockNumber": 10200038,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.517065209564106427",
+            "17.521521442464919988",
+            "0.186254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10302615,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.516625829866758974",
+            "0.000000177717098593",
+            "17.597153618532986543"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10276314,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.230000000000000000"],
+        "addresses": ["0x434ded09939b64cd76baa81f9a394283d4c71f05"]
+    },
+    {
+        "blockNumber": 10202240,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.516384209786644770",
+            "0.009000000000000000",
+            "17.528526441649557351",
+            "0.162254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x3efd3391a0601eaa093647f911c653d77c11e3fd",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10192118,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.443383630854693116", "0.060274857642632021"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xb3a7fbc2fa38c18ad4433ae93fe7f215fd2d057f"
+        ]
+    },
+    {
+        "blockNumber": 10198055,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.502619250485928729",
+            "0.000000098076338557",
+            "17.572838433324398718",
+            "0.165000000000000017"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0x434ded09939b64cd76baa81f9a394283d4c71f05"
+        ]
+    },
+    {
+        "blockNumber": 10238605,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["10.000000000000000000"],
+        "addresses": ["0xd18a54f89603fe4301b29ef6a8ab11b9ba24f139"]
+    },
+    {
+        "blockNumber": 10326645,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.004800000000000000", "0.000067152011383651"],
+        "addresses": [
+            "0x28deb2eaddf8dc85f51027d42f8b16ca3efb5462",
+            "0x5188dbf722df94569d41f3c8a32e6b76939a0ad5"
+        ]
+    },
+    {
+        "blockNumber": 10178098,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.503269132002089403", "0.000798671962281825"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x66ada96594b6379ad2536f5fdc11cce235dd99be"
+        ]
+    },
+    {
+        "blockNumber": 10293901,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["9.977270836244366452", "17.590827736437695672"],
+        "addresses": [
+            "0x5b97680e165b4dbf5c45f4ff4241e85f418c66c2",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10245523,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["1.673202573949227377", "17.525227225602348194"],
+        "addresses": [
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10268245,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.000000166758320994",
+            "1.698515688905346872",
+            "22.657743822798063251"
+        ],
+        "addresses": [
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10219939,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.512391397652004370",
+            "0.000484359887340124",
+            "1.682725778477056148",
+            "0.000241841026742723",
+            "0.000000000000000000"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x672b8144fe28a33bfe9678e880ff2e78b4c82705",
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0x999d6c858de19b048312f77597788b950a2fb35e",
+            "0x51a33a5bba82f8ebd0fe2192a25ca2e60b9dc32f"
+        ]
+    },
+    {
+        "blockNumber": 10279472,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["458.050707755842727462", "0.000000000000000000"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x46e31f24d784849f1c35127f2ecb6ab5b6d640d6"
+        ]
+    },
+    {
+        "blockNumber": 10329727,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.004798210406383594",
+            "0.007396043766971277",
+            "0.000000000000000017",
+            "22.185214302374404594"
+        ],
+        "addresses": [
+            "0x28deb2eaddf8dc85f51027d42f8b16ca3efb5462",
+            "0x486eaab71360a0e7bade22509a86815b1a2eada2",
+            "0xca5cb9ef958774e60cea4f63d9fb0f5ad76f3dca",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10245607,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.510919213300413075",
+            "1.683374758300818672",
+            "0.000231422277852499"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0x951763756df8811575f2c7f7cf8761b74147ea7d"
+        ]
+    },
+    {
+        "blockNumber": 10279396,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["457.571387745382162248", "9.916313460759450351"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x3a25473a5098f8b5ce1bd383416801bff28575b9"
+        ]
+    },
+    {
+        "blockNumber": 10328456,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["999.000000000000000000"],
+        "addresses": ["0x17ff301124080fb84bec04b9567b49fa4e43ef23"]
+    },
+    {
+        "blockNumber": 10176705,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.000000000000000000",
+            "0.000220637693397766",
+            "0.060693992040384737",
+            "0.001316222055691901",
+            "0.504091581743414733",
+            "0.000000000000000000",
+            "0.001417312791745481",
+            "0.001665356114876894",
+            "0.000001100706489421",
+            "0.000000000000000000",
+            "0.051768185492283424",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.002212294832880265",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000007",
+            "0.002538671749687745",
+            "0.000911516645869198",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.007028693451047309",
+            "0.000210571184642547",
+            "0.000000000000000000",
+            "0.027703181566271488",
+            "0.001982246191283746",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.037297628630927341",
+            "0.000214326082908057",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.003452718940153816",
+            "0.000272687653114473",
+            "0.000001000000000000",
+            "0.004571098259456447",
+            "0.002193211762829616",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "14.000000000000000000",
+            "0.000000000000000000",
+            "0.000004883826408793",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000011",
+            "0.014374827966664704",
+            "0.000000079188619351",
+            "0.002447000000000000",
+            "0.000580000000000004",
+            "1.666989996056591839",
+            "0.000000000000000000",
+            "0.002500000000000000",
+            "0.001500000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000447608356011254",
+            "0.009139136760818019",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.010030929967651278",
+            "0.000000000000000000",
+            "0.010720254028329701",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.002330876180694468",
+            "0.002793020632157565",
+            "0.000047319339625418",
+            "0.005224212665373336",
+            "0.000000000000000000",
+            "0.000003921568627451",
+            "0.000000000000000000",
+            "0.002687859729798619",
+            "0.007181430421665583",
+            "0.000000000000000000",
+            "0.001307053589794684",
+            "0.000000000000000000",
+            "0.002500000000000000",
+            "0.000000000000000001",
+            "0.102105298254926164",
+            "0.000000000000000000",
+            "0.000000000000000016",
+            "0.001481272722230211",
+            "0.500000000000000000",
+            "0.000238889094792661",
+            "0.018860767853973775",
+            "0.001467018856597667",
+            "0.000050000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "17.498862423569004090",
+            "0.018386409175712966",
+            "0.000000000000000000",
+            "0.000226136371929870",
+            "0.000504380980531588",
+            "0.000008811065541144",
+            "0.000000000000000002",
+            "0.000000000000000000",
+            "0.018982632738189374",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000037375214975840",
+            "0.000000000000000000",
+            "0.000062661779083017",
+            "0.003083376948654774",
+            "0.021710875478145576",
+            "0.000012203458474111",
+            "25.997287443000000000",
+            "0.059603000000000000",
+            "0.005515644456552550",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000017",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.003633369565503020",
+            "0.073500000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000",
+            "0.000000000000000000"
+        ],
+        "addresses": [
+            "0x00c67d9d6d3d13b42a87424e145826c467cccd84",
+            "0x01c142e94c8837d62787576bcd6f82a7bfb34ac2",
+            "0x01e6fd0ae73d9194b19f9b376065577927a0d5f5",
+            "0x03c2bc72a3e007179e54ffb4563cc235bec8151a",
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x132db8234171cc9d8a65853cf03d5c0f46c8867e",
+            "0x18fa2ac3c88112e36eff15370346f9aff3161fd1",
+            "0x1e17a75616cd74f5846b1b71622aa8e10ea26cc0",
+            "0x1f0aef221b865213af9214cd6b4debfbc4ec4c1d",
+            "0x1f427a6fcdb95a7393c58552093e10a932890fa8",
+            "0x238b4496d974b7d3518ee6dc5aab8e2776ef9d6f",
+            "0x2898e036dcaa7a94ea96761193cbe6c54d587bc5",
+            "0x28deb2eaddf8dc85f51027d42f8b16ca3efb5462",
+            "0x2953d4a9c12906e5ab3cad627f8b52e3b7ffc963",
+            "0x2e2cee70d0540f3b87258fcec3c5acf354939d04",
+            "0x2e4de42f0b8ac51d435bd98121af106388d911bd",
+            "0x303b6c0d8608b6683caff4f7e1cfab556323ee35",
+            "0x3111b7716dcc3ddf8509b3efc320488e9e39faca",
+            "0x31876edc17ba00b071202d4e719fb7d86bcb9270",
+            "0x3230a79c196958980f058d0dbd5e6a5fd3ea1778",
+            "0x381479aef601d864a0b3882e96e23438ff3011e5",
+            "0x39c09fdc4e5c5ab72f6319ddbc2cae40e67b2a60",
+            "0x3a70e8c00f3bcf3eb845b6b6928aba92b465c183",
+            "0x3b59b33a49460c7d4609cf491ad6e946bef5a027",
+            "0x3efd3391a0601eaa093647f911c653d77c11e3fd",
+            "0x4059457092cc3812d56676df6a75fd21204fbe2f",
+            "0x444c996b74631763ce0c406fcbe9aa13d35f395e",
+            "0x4527c75dfc50a5390dc663f81b627c39e7b9acad",
+            "0x4594ab61b53142dafe3a0762cca6ac00d6cf71f3",
+            "0x486eaab71360a0e7bade22509a86815b1a2eada2",
+            "0x4929f4d38f2955649b5aa34343da04cf790b9d92",
+            "0x4a23135b15417aedeaa7a48c5d5cd80c2b5df300",
+            "0x4f99632a3ea59a7197ac566a7976d03f51293ec7",
+            "0x5188dbf722df94569d41f3c8a32e6b76939a0ad5",
+            "0x51a1583335abb511d68ae6151eb5b7a3c7ef86ed",
+            "0x5376d18b8b2ebc4b3d4977f0a6c393d00f571ce4",
+            "0x555b28b4eda9d3592ffac55047df5c90483c0fc4",
+            "0x57266b3ad7f8c3aa6c9793eafbcd4652a6bdfac0",
+            "0x5999865518c9de250b820762130ff7a7119a4558",
+            "0x5afb85bdb56e5153fbb6ec8bcf933c2a1992fe07",
+            "0x5b450694a4fcba4a928d3892ed649459a8cdc763",
+            "0x5b97680e165b4dbf5c45f4ff4241e85f418c66c2",
+            "0x5d58518c1902ed78c48d77ebe71feede67419438",
+            "0x5eda2dc136986fc88d4df5696bc464f96a20268a",
+            "0x635b230c3fdf6a466bb6dc3b9b51a8ceb0659b67",
+            "0x672b8144fe28a33bfe9678e880ff2e78b4c82705",
+            "0x68a17b587caf4f9329f0e372e3a78d23a46de6b5",
+            "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0x6b817156a65615f01949eae47cc66f2a1f2f2e7d",
+            "0x6d328b8de10fd9bc0801d396377a6ddd784141fa",
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0x7570d3a456e659ab7d475db30a26745e67d6a97b",
+            "0x77f1894552a6336bd0fb2f0e904d30858f67cfa4",
+            "0x7cb12f7169faf17fd5d7d53c3095975d7789f181",
+            "0x7d2f4bcb767eb190aed0f10713fe4d9c07079ee8",
+            "0x7ff5526f2b01b6ef5e30eb6b0066642476ee01a1",
+            "0x80dd69eacfbf7629662fafd3442fdecc30a39297",
+            "0x834da2e7bf0d17146efe4e01905c4ca6c14da3f4",
+            "0x89fb71eb0a85f01e323766dc12fd4297692069a4",
+            "0x8a3960472b3d63894b68df3f10f58f11828d6fd9",
+            "0x8bce57b7b84218397ffb6cefae99f4792ee8161d",
+            "0x92c366872c71d2751068690939d0c972e8241377",
+            "0x951763756df8811575f2c7f7cf8761b74147ea7d",
+            "0x999d6c858de19b048312f77597788b950a2fb35e",
+            "0x9dfa6626eaf26635d48210714ff7fe5ef09fb72f",
+            "0x9fe067eb7c4a2f5e4ea046b5af6095f75072bbe2",
+            "0xa5d808eddd2212e20c294f9ee12e99f75b11fcfd",
+            "0xa6663ccb24b28d5a568e9d4f56e59fc1dee96d59",
+            "0xa901368aec255b1e6df31edf8aa735ff16bb12a8",
+            "0xabf26352aadaaa1cabffb3a55e378bac6bf15791",
+            "0xac39d821bfdc12d2aacea2a940738b96b38d1a75",
+            "0xad8c540a8b291529a12bdde08bf352cdcfc76bc4",
+            "0xaedc687fa5376d2fe9d4b81ebfc8c2ba30ba54ae",
+            "0xaff5ccb996125dee3c12fbe4910b418c138646d0",
+            "0xb3522064694ac9870dbf00eebc2712762193bb64",
+            "0xb3a7fbc2fa38c18ad4433ae93fe7f215fd2d057f",
+            "0xb6bc98f5d7f6ce3c0946f7675128ab673e6c5d41",
+            "0xb707bbb632d01a6901fc8fb66d076b9453570bdf",
+            "0xbaa6de4acc1fe7f44e80c58ddf5a61f3c08e0c55",
+            "0xbc3a12b9c9db119cd0930eb2eb033e182141f43e",
+            "0xbd14576897bc0a294f22f4a90c639090edb315a8",
+            "0xc5417a0fe9a7f41864fddfd639980f58fa511cc4",
+            "0xc5ccfe9a0c45f73475e747b30d816af6c6ad1970",
+            "0xc96265c36f6d77747f9c259946a1ef55fce946b7",
+            "0xca5cb9ef958774e60cea4f63d9fb0f5ad76f3dca",
+            "0xcb57c082893450408d432b5d0bc38def93b26040",
+            "0xce3066df90ee06331e38d3cbc253d9abafa8e3cd",
+            "0xcf12d2b5bbd585bd92af9019d690459bb5872ccb",
+            "0xd0c81e82abddf29c6505d660f5bebe60cdff03c5",
+            "0xd18a54f89603fe4301b29ef6a8ab11b9ba24f139",
+            "0xd432930bbd8735950f898bfa60cdf807e9f3cdb4",
+            "0xd4c7ac4e4ca65ab5540475066b1271fdcad414f1",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xd68a5ccde1e5273c79cd40711fe4750122cdd865",
+            "0xd764bb9822ee16097140031b017640e7a293e57f",
+            "0xe1d1ddb84063c4c85315d25dc568261c2f83b8c7",
+            "0xe3f7d7bc656619d70000a2618881f62a85dc95e9",
+            "0xe6ea2c6742a5d4426d717d36fa8ba5318559e5c0",
+            "0xe98774abdd346742a7e68d962cc26933733ed012",
+            "0xecfc6e2232bdf6c9ae42aeb2b123a760e45517d4",
+            "0xeee53e0240ce27ef9a01ce2789d6513b4493ebdf",
+            "0xeeff6fd32deafe1a9d3258a51c7f952f9ff0b2ce",
+            "0xefe1a7b147ac4c0b761da878f6a315923441ca54",
+            "0xf0b83cd46d3a2c08083813ce4a0004a050f7576d",
+            "0xf401a7c5469b54eaf88597b92c53a0ece91cc398",
+            "0xf49e51a14f708e57a126855687118f60abf39e7f",
+            "0xf4fc3ac40c6b3fad7dcb7d51f26d01610b890c00",
+            "0xf610d8c16f9b607642a9c5649078b445f48fcd31",
+            "0x51a33a5bba82f8ebd0fe2192a25ca2e60b9dc32f",
+            "0x8418f91b7ac9eaaea472f1c8a2690121f1054e78",
+            "0x857e6fbb7518fe4fc28667c5581c329f9a571b6c",
+            "0xbac3919c732e1c0aee6b8d6149a1e773bca12b86",
+            "0x81b5ec3be3d9339299e56665d8206d4d28ece898",
+            "0xa0ebb63205d4c5dd57202683732dbd2077d1e8bb",
+            "0x66ada96594b6379ad2536f5fdc11cce235dd99be",
+            "0x434ded09939b64cd76baa81f9a394283d4c71f05",
+            "0x38ab0fde4f152bdbc9e8ac44f0e9f56f092fbe79",
+            "0x4a22c8d17a7287902212d8089d65c0f5b1428ca6",
+            "0x414354db069cea6fa536c3d2ea1bbf5730b7715c",
+            "0x34fa4af2d182209956fa69d849953a4c0402002a",
+            "0x5f78fbab81f9892bbe379d88c8a224774411b0a9",
+            "0xbc23e50c2287f481288f29fecd5ca6ff00c72083",
+            "0x67fdb08f645cae74607b807d14c09c400ef4f6b7",
+            "0xb61642cdef7f494c603acdb94e2617fbf8a1c5f3",
+            "0xb24b54fe5a3adcb4cb3b27d31b6c7f7e9f6a73a7",
+            "0x07f58c9792bc03443d7b96ed314800a911a11680",
+            "0x20c75587792bd5bfbe96abb680e9faea5b3edd9f",
+            "0x3212b29e33587a00fb1c83346f5dbfa69a458923",
+            "0x6317c5e82a06e1d8bf200d21f4510ac2c038ac81",
+            "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
+            "0xa2881a90bf33f03e7a3f803765cd2ed5c8928dfb",
+            "0x91bba529a4e469758cd3832305586fd1e8161edd",
+            "0x00000f2d00b7a76100366c0013c2000595ee0067",
+            "0xe2d9566a6f0f0c29561da35a8d1cab1430eeaf56",
+            "0x498b859d2e59958e209d7dd262324c8d31b12b12",
+            "0x40dde6092a77ec2d00eb4fa14f0c5d92d835d673",
+            "0x9d22a13c36e10b9630dda6a3a3c0af2076ab88d5",
+            "0xdd5a1c148ca114af2f4ebc639ce21fed4730a608",
+            "0x103675510a219bd84ce91d1bcb82ca194d665a09",
+            "0x8177573b5557e3a2213d4aec44abe7baef6d737d",
+            "0xff49432a1ea8ac6d12285099ba426d1f16f23c8d",
+            "0xff1b9745f68f84f036e5e92c920038d895fb701a",
+            "0xffe1c5696d924438fba5274d7b5d8ffa29239a6f",
+            "0xffbfdb803d38d794b5785ee0ac09f83b429d11b5",
+            "0x8e9d536bae9e2cf29d1ba86838c2ec782d7de5fb",
+            "0x2a33cb652fff44b52c7c950aa7ee1f3296dedeee",
+            "0xff28319a7cd2136ea7283e7cdb0675b50ac29dd2",
+            "0xffcdfd98c455c29818697ab2eeafccbc4e59fd3d",
+            "0xb418945ee17c7a933a8a3dd1e922767d1c063f9f",
+            "0xc4303d911caaef2400387d3c221a9ae6f755411e",
+            "0xef50eed70d0ff96354368749877bf51bff73e4eb",
+            "0x75434c066bcda433d9701bfff679e69b95984357",
+            "0xff3769cdbd31893ef1b10a01ee0d8bd1f3773899",
+            "0xffdce1ae835d35bb603c95163e510bb2604a1a41",
+            "0xff59364722a4622a8d33623548926375b1b07767",
+            "0x72b13de63c92f31aaf1caaaab2a6d1462e89c34c",
+            "0x9668dc9b53d0a72f5840d14e0a451d1bcf07b272",
+            "0x97dec872013f6b5fb443861090ad931542878126",
+            "0xdc2037c17ec03f6ae4121cb83830ecb18a5f4c7b",
+            "0xe59b150ab850ce59c3be44aaa963fd5239d658f6",
+            "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6",
+            "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "0x3548fbc04fc033e07e8004904d18fad502f4f307",
+            "0xc722c4304b4912351d629f35b9d97924e965393b",
+            "0x11111254369792b2ca5d084ab5eea397ca8fa48b",
+            "0xfff66732389866aeaf8f7305da53f442c29e1b8f",
+            "0x90be78d603b616d52112d4bbb0f3b61db4fb822c",
+            "0xe1e855a6259fef1dd53e6aa2910fcba19babd337",
+            "0x510b96cef3a581dc45dad3141561124dfb4a4f20",
+            "0xfffffe23e35d51d3c2d0cbc8c07b3aba0d8a5ddf",
+            "0xf1ad4bfdf8829d55ec0ce7900ef9d122b2610673",
+            "0xfffffb1248ed45bc35370a6a3e4a3e7e5c721ac8",
+            "0xfffffe903ce4ce254e286a90f54881e54a6bffb0",
+            "0xffff6ba3949f6b0fb775959873e1d8bcb9500e01",
+            "0xffff25ce6ef41f40b4db508b590b057cf2be5d89",
+            "0xfffff36a3086576aa81741d7bcd171f8170f09bc",
+            "0xffff6c9b28cfe35b28f171f237ba3dc35f5c4103",
+            "0xfffffe6fb464f3ba0e55fda52694c06c27d8a43e",
+            "0xfffff9e3909385f33f964da4bd0738ab6e3c18fe",
+            "0xfffff80c63b08f6e0f1eefdedeed8da9ae122b77",
+            "0xfffff4d5d0244270a6e3474011a80573893f2025",
+            "0xfffff8d15bbabfd139b153be153f9598c53f77d9",
+            "0xfffffe40dc28311631127d405bb3e2ef5380aad2",
+            "0xffff41a1d6fc86a2dc35588cf0ac8dc0488b5c44",
+            "0xfffff92cf0ac68ca2d8c0e2dc465fb788e606d62",
+            "0xfffff29caff9e678c73db2207907ccb0d52c03cb",
+            "0xffff4024fe0b3207318804ab304dfc3d8f6da137",
+            "0xfffffaa025c51ebc01d505f6e2b20ca073a21d16",
+            "0xffffe2303c8d2f08dfbc87c96411e619d77f3129",
+            "0xfffff3ec6f63fd1d4c0474dcc65a4da48d7e43cd",
+            "0xfffffbcdb0a275f73460582b1f40e0aa10940147",
+            "0xffff0b18ee6cfa16f0640a5d6d1e4be6fa5a0ea3",
+            "0xfffffe48b74f0882ba53e2b8462201d20bec4fab",
+            "0xfffffb2a87e9e1e4502191fe642b1a7c5c2f8889",
+            "0xfffffedd7f2144b783d169f6e975c4a6ee8b4d50",
+            "0xfffffb25a9a7b9267f685703a40f6142b28ba76c",
+            "0xffffbfbe7d666b3faa91cb9c3991c43b5c8022da",
+            "0xfffffcf997a338dabebc43b67a891a5c76ff6c2f",
+            "0xfffff33102c8bbf789d864f3860d03827cb4960e",
+            "0xfffff9dcc3d0ddad9ede7b0da228ae72abbefa4a",
+            "0xffffff3f31cb8be98fc3e2d603cc8d6a92ad4d3c",
+            "0xfffffd7a4656995fbea6fb486fdab13ab904ba81",
+            "0xfffff52c91555536130a417665265182567047a6",
+            "0xfffff682b839b77f9583529b8f141190f4bf4c03",
+            "0xfffff7b5ba670cf3649ca0fb2db5396af13d77e3",
+            "0xfffff8a3d3e8326976022e685b3104fae51b4405",
+            "0xfffff6ce95d9b9bc31734f61cbf85717450a2453",
+            "0xfffff7bee659178c9ec0e0ba01ffb024457ef406",
+            "0xfffff7703e84758d11e9dc0c046f1759b5c4d043",
+            "0xfffff142bb561a627443e4c505e03b668a4fbba7",
+            "0xfffffc54e24fdd6a28855a61d563f0d50870d548",
+            "0xffffb089f11f06690ea3cee21f8d8d8e6841ffa4",
+            "0xffff0c1e1b11b7d0be2ae5fc3a1db68662167a15",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5",
+            "0xd08131920d9890343f5e2d02fa206a0167b1e235"
+        ]
+    },
+    {
+        "blockNumber": 10325900,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.005933444260331099",
+            "0.004867152011383651",
+            "17.676840367197036249",
+            "0.000246055333909952"
+        ],
+        "addresses": [
+            "0x381479aef601d864a0b3882e96e23438ff3011e5",
+            "0x5188dbf722df94569d41f3c8a32e6b76939a0ad5",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xd764bb9822ee16097140031b017640e7a293e57f"
+        ]
+    },
+    {
+        "blockNumber": 10240096,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["1.664472243798347484", "17.475263197935754017"],
+        "addresses": [
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10325415,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["5940.000000000000000000"],
+        "addresses": ["0x20c75587792bd5bfbe96abb680e9faea5b3edd9f"]
+    },
+    {
+        "blockNumber": 10324167,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["20000.000000000000000000"],
+        "addresses": ["0xe1b86131bc69d0237f7243542cb9156fa8f034a8"]
+    },
+    {
+        "blockNumber": 10198226,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.000000000000000000", "0.064341476545067913"],
+        "addresses": [
+            "0x434ded09939b64cd76baa81f9a394283d4c71f05",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10187401,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["1.659859459076414650", "17.518541859242840991"],
+        "addresses": [
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10275345,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.511231614565632735",
+            "22.673898863070212431",
+            "0.104254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10183000,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["1.640002310409675472", "17.538399007909580169"],
+        "addresses": [
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10328341,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.000000000000000000",
+            "9.500000000000000000",
+            "5.258761186622480499",
+            "0.241238813377519501"
+        ],
+        "addresses": [
+            "0x2e2cee70d0540f3b87258fcec3c5acf354939d04",
+            "0x5b450694a4fcba4a928d3892ed649459a8cdc763",
+            "0x7d2f4bcb767eb190aed0f10713fe4d9c07079ee8",
+            "0xeeff6fd32deafe1a9d3258a51c7f952f9ff0b2ce"
+        ]
+    },
+    {
+        "blockNumber": 10198038,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.498131441650288933", "0.000000000000000000"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x66ada96594b6379ad2536f5fdc11cce235dd99be"
+        ]
+    },
+    {
+        "blockNumber": 10297229,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["811.284343198552322646", "79.139923092935161906"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0xbee891997340477f9479fc9ea8f29d9f0ff2fb34"
+        ]
+    },
+    {
+        "blockNumber": 10327402,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["44800.000000000000113314"],
+        "addresses": ["0x5398850a9399da87624874704feaa8a9c6c4089b"]
+    },
+    {
+        "blockNumber": 10198228,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.510681539968753352",
+            "17.681434613582804412",
+            "0.048341476545067913"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10198237,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.528020575422670019", "0.014341476545067913"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10278622,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.200000000000000000", "0.030000000000000000"],
+        "addresses": [
+            "0x4594ab61b53142dafe3a0762cca6ac00d6cf71f3",
+            "0x434ded09939b64cd76baa81f9a394283d4c71f05"
+        ]
+    },
+    {
+        "blockNumber": 10324797,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["45200.070357954825025295", "60999.929642045174974705"],
+        "addresses": [
+            "0x0554a200988cf265b3aa35436a903d51fac47112",
+            "0x302abcedf32b8534970a70c21eb848fc9af19f31"
+        ]
+    },
+    {
+        "blockNumber": 10198163,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.513322232048198658",
+            "17.662793921503359106",
+            "0.064341476545067913"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0x434ded09939b64cd76baa81f9a394283d4c71f05"
+        ]
+    },
+    {
+        "blockNumber": 10316076,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.528625829866758974", "0.224254647691584063"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10236228,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.037383886706439794", "17.519257192210684765"],
+        "addresses": [
+            "0x4929f4d38f2955649b5aa34343da04cf790b9d92",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10328075,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["260137.849959379749201048", "0.000000000000139901"],
+        "addresses": [
+            "0x302abcedf32b8534970a70c21eb848fc9af19f31",
+            "0x5398850a9399da87624874704feaa8a9c6c4089b"
+        ]
+    },
+    {
+        "blockNumber": 10280539,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["456.164553641055410092", "20.417096678057626206"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x3c6db56038f941583190209a5276ea2530185753"
+        ]
+    },
+    {
+        "blockNumber": 10209452,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.515532963843760100", "1.675881835016404888"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x75286e183d923a5f52f52be205e358c5c9101b09"
+        ]
+    },
+    {
+        "blockNumber": 10279397,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["438.950764061803416913", "18.620623683578745335"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0xe4a8e622079493b74651774aa2eb1dff45b52557"
+        ]
+    },
+    {
+        "blockNumber": 10194657,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["1.649030543100508736", "17.547326254484207074"],
+        "addresses": [
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10180338,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["30.020375443000000000", "0.000000000000000000"],
+        "addresses": [
+            "0x8418f91b7ac9eaaea472f1c8a2690121f1054e78",
+            "0x857e6fbb7518fe4fc28667c5581c329f9a571b6c"
+        ]
+    },
+    {
+        "blockNumber": 10181543,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.028267896222026710", "17.511411322262663802"],
+        "addresses": [
+            "0x4929f4d38f2955649b5aa34343da04cf790b9d92",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10295551,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["1500.000000000000000000"],
+        "addresses": ["0x49739691fb5f3992b3f2536f309d955558e75933"]
+    },
+    {
+        "blockNumber": 10329497,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "7.200000000000000000",
+            "2.300000000000000000",
+            "0.000000034217213567",
+            "21.629552332979822682"
+        ],
+        "addresses": [
+            "0x2e2cee70d0540f3b87258fcec3c5acf354939d04",
+            "0x5b450694a4fcba4a928d3892ed649459a8cdc763",
+            "0x635b230c3fdf6a466bb6dc3b9b51a8ceb0659b67",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10278630,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.511917098277083920",
+            "0.000000171581410020",
+            "22.685213376912052693",
+            "0.122254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10180375,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["15.000000000000000000", "0.020375443000000000"],
+        "addresses": [
+            "0x3230a79c196958980f058d0dbd5e6a5fd3ea1778",
+            "0x8418f91b7ac9eaaea472f1c8a2690121f1054e78"
+        ]
+    },
+    {
+        "blockNumber": 10286711,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.516103875233113353",
+            "22.755955013369524219",
+            "0.044254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10200021,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.514063163652381675",
+            "0.000000164209607656",
+            "17.502523490738999893",
+            "0.208254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10293150,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["250.000000000000000000"],
+        "addresses": ["0xbd1f7d88c76a86c60d41bddd4819fae404e7151e"]
+    },
+    {
+        "blockNumber": 10208442,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.518091939572739224",
+            "17.552107543613940099",
+            "0.128254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10316251,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.517546409085607256",
+            "0.000000180039247071",
+            "17.608233036991989783"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10208437,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.517968257416755368",
+            "17.544231225769923955",
+            "0.136254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10198236,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.512020575422670019",
+            "0.000000157040657329",
+            "17.698095572878270760"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10279403,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": [
+            "415.933425463090140806",
+            "14.842615972374448254",
+            "8.174722626338827853"
+        ],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0xba98b69a140c078746219d0bbf0bb3b923483374",
+            "0x12d964f702db7b301765c0066a04ec4fbdb59e3a"
+        ]
+    },
+    {
+        "blockNumber": 10301956,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.000940160377251258", "0.000246469429367583"],
+        "addresses": [
+            "0xd4c7ac4e4ca65ab5540475066b1271fdcad414f1",
+            "0xd764bb9822ee16097140031b017640e7a293e57f"
+        ]
+    },
+    {
+        "blockNumber": 10328235,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["500.000000000000000000", "49500.000000000000000000"],
+        "addresses": [
+            "0x7d2f4bcb767eb190aed0f10713fe4d9c07079ee8",
+            "0xeeff6fd32deafe1a9d3258a51c7f952f9ff0b2ce"
+        ]
+    },
+    {
+        "blockNumber": 10213357,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.025334683298487155", "17.528254133037683155"],
+        "addresses": [
+            "0xc96265c36f6d77747f9c259946a1ef55fce946b7",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10198106,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.554694922421791472", "0.085000000000000017"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x434ded09939b64cd76baa81f9a394283d4c71f05"
+        ]
+    },
+    {
+        "blockNumber": 10329645,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.000000185561646185",
+            "7.136943770909664086",
+            "21.692608556547759482"
+        ],
+        "addresses": [
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0x92c366872c71d2751068690939d0c972e8241377",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10279380,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["477.843921143073093582", "22.156078856926906418"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x46e31f24d784849f1c35127f2ecb6ab5b6d640d6"
+        ]
+    },
+    {
+        "blockNumber": 10257424,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["8.852143559312537905", "22.672884753588949636"],
+        "addresses": [
+            "0x5b97680e165b4dbf5c45f4ff4241e85f418c66c2",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10312236,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["1000.000000000000000000", "0.000000000000000000"],
+        "addresses": [
+            "0xfd6d004e713e809292007c4f70daf12894a2b394",
+            "0xb6d064b1f841dd87191aba57fbc28faa08139126"
+        ]
+    },
+    {
+        "blockNumber": 10198235,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.528681539968753352", "0.030341476545067913"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10279414,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["425.978315438156370693", "8.575733708512515448"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x0841ff0eb875a73ad26ea7a3eb182e8b99abe539"
+        ]
+    },
+    {
+        "blockNumber": 10279388,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["467.487701206141612599", "10.356219936931480983"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x4d6b93d4ccede0954ddc21212af2a8f143e2238e"
+        ]
+    },
+    {
+        "blockNumber": 10285107,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.515669799603054522",
+            "0.003071581517807245",
+            "22.748389088999583050",
+            "0.052254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x9fe067eb7c4a2f5e4ea046b5af6095f75072bbe2",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10278637,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.512536375585993005",
+            "0.000000173267478965",
+            "22.694594097917074663",
+            "0.112254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10198045,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.195000000000000017"],
+        "addresses": ["0x434ded09939b64cd76baa81f9a394283d4c71f05"]
+    },
+    {
+        "blockNumber": 10324972,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["0.000000000000057418", "106199.999999999999942582"],
+        "addresses": [
+            "0x0554a200988cf265b3aa35436a903d51fac47112",
+            "0x302abcedf32b8534970a70c21eb848fc9af19f31"
+        ]
+    },
+    {
+        "blockNumber": 10328532,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["66600.000000000000000000"],
+        "addresses": ["0xc31db2e710192791b65de43d4b84886a6d770322"]
+    },
+    {
+        "blockNumber": 10224398,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["9.000000000000000000", "1.000000000000000000"],
+        "addresses": [
+            "0xc1c73fe851dc103b2662a9b80e5a1c681801cc9d",
+            "0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
+        ]
+    },
+    {
+        "blockNumber": 10323974,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["1000.000000000000000000"],
+        "addresses": ["0x17102711723d3cc400b876173ce205f71ec6c04a"]
+    },
+    {
+        "blockNumber": 10295081,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["1000.000000000000000000"],
+        "addresses": ["0xfd6d004e713e809292007c4f70daf12894a2b394"]
+    },
+    {
+        "blockNumber": 10329578,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.000000000000000000", "7.200000000000000000"],
+        "addresses": [
+            "0x2e2cee70d0540f3b87258fcec3c5acf354939d04",
+            "0x92c366872c71d2751068690939d0c972e8241377"
+        ]
+    },
+    {
+        "blockNumber": 10202297,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.005698030968832583", "0.003301969031167417"],
+        "addresses": [
+            "0x381479aef601d864a0b3882e96e23438ff3011e5",
+            "0x3efd3391a0601eaa093647f911c653d77c11e3fd"
+        ]
+    },
+    {
+        "blockNumber": 10322958,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["50000.000000000000000000"],
+        "addresses": ["0xeeff6fd32deafe1a9d3258a51c7f952f9ff0b2ce"]
+    },
+    {
+        "blockNumber": 10329446,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["19000.000000000000000000"],
+        "addresses": ["0xfad4a1f91026e62774a918202572b9be2fdcdb4e"]
+    },
+    {
+        "blockNumber": 10270018,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["1.704862039351083442", "22.651397472352326689"],
+        "addresses": [
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10200849,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["1.673322859287425764", "17.520699337114781534"],
+        "addresses": [
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10279694,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.515193337922149343",
+            "22.739937132198295474",
+            "0.064254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10279483,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["466.225430382181555315", "0.000000000000000000"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x12d964f702db7b301765c0066a04ec4fbdb59e3a"
+        ]
+    },
+    {
+        "blockNumber": 10247328,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["17.451312057040802477", "0.073915168561545717"],
+        "addresses": [
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xbc23e50c2287f481288f29fecd5ca6ff00c72083"
+        ]
+    },
+    {
+        "blockNumber": 10180287,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["29.960772443000000000"],
+        "addresses": ["0x8418f91b7ac9eaaea472f1c8a2690121f1054e78"]
+    },
+    {
+        "blockNumber": 10325216,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["11840.000000000000057418"],
+        "addresses": ["0x0554a200988cf265b3aa35436a903d51fac47112"]
+    },
+    {
+        "blockNumber": 10180365,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["15.000000000000000000", "15.020375443000000000"],
+        "addresses": [
+            "0x2e2cee70d0540f3b87258fcec3c5acf354939d04",
+            "0x8418f91b7ac9eaaea472f1c8a2690121f1054e78"
+        ]
+    },
+    {
+        "blockNumber": 10225938,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["50.696638000000000000"],
+        "addresses": ["0x434ded09939b64cd76baa81f9a394283d4c71f05"]
+    },
+    {
+        "blockNumber": 10198153,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.496798566688495070", "0.096341476545067913"],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x434ded09939b64cd76baa81f9a394283d4c71f05"
+        ]
+    },
+    {
+        "blockNumber": 10200043,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.517211314321420587",
+            "17.529375337707605828",
+            "0.178254647691584063"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5"
+        ]
+    },
+    {
+        "blockNumber": 10329878,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.518299648046207409",
+            "0.000000187950310670",
+            "22.055105254616054244"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10182795,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.504369121119265218",
+            "1.654080134642584621",
+            "17.524321183676671020",
+            "0.000000000000000000"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xbac3919c732e1c0aee6b8d6149a1e773bca12b86"
+        ]
+    },
+    {
+        "blockNumber": 10279889,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["476.581650319113036298", "0.000000000000000000"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x4d6b93d4ccede0954ddc21212af2a8f143e2238e"
+        ]
+    },
+    {
+        "blockNumber": 10179077,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.499636481821713914",
+            "0.017608347902992908",
+            "17.484773241950770271"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0xc5ccfe9a0c45f73475e747b30d816af6c6ad1970",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10269362,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["0.006973482767009513", "22.650770340031053753"],
+        "addresses": [
+            "0xc5ccfe9a0c45f73475e747b30d816af6c6ad1970",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10329757,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.004734610896771332",
+            "0.005879492256902892",
+            "0.117631141389558077",
+            "22.067702386852436913",
+            "0.000244380979360042"
+        ],
+        "addresses": [
+            "0x28deb2eaddf8dc85f51027d42f8b16ca3efb5462",
+            "0x381479aef601d864a0b3882e96e23438ff3011e5",
+            "0xca5cb9ef958774e60cea4f63d9fb0f5ad76f3dca",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xd764bb9822ee16097140031b017640e7a293e57f"
+        ]
+    },
+    {
+        "blockNumber": 10281468,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["476.581650319113036298", "0.000000000000000000"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x3c6db56038f941583190209a5276ea2530185753"
+        ]
+    },
+    {
+        "blockNumber": 10232831,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["150.000000000000000000"],
+        "addresses": ["0x434ded09939b64cd76baa81f9a394283d4c71f05"]
+    },
+    {
+        "blockNumber": 10301933,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.005907512381303585",
+            "0.001186629806618841",
+            "17.589675574233628941"
+        ],
+        "addresses": [
+            "0x381479aef601d864a0b3882e96e23438ff3011e5",
+            "0xd4c7ac4e4ca65ab5540475066b1271fdcad414f1",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10292127,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": [
+            "10000.000000000000000000",
+            "1500.000000000000000000",
+            "17999.000000000000000000"
+        ],
+        "addresses": [
+            "0x42d13efa958586ff2d3ec20956d44dad8da55864",
+            "0xd68a5ccde1e5273c79cd40711fe4750122cdd865",
+            "0xadfafe698cba74f0530fc66331649aa6be40656b"
+        ]
+    },
+    {
+        "blockNumber": 10226928,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.005545796054642977",
+            "0.023620809185997514",
+            "17.504785558765875241"
+        ],
+        "addresses": [
+            "0x381479aef601d864a0b3882e96e23438ff3011e5",
+            "0xb707bbb632d01a6901fc8fb66d076b9453570bdf",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10225235,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.005569403708239523",
+            "0.010683319210527888",
+            "17.517699441087748335"
+        ],
+        "addresses": [
+            "0x381479aef601d864a0b3882e96e23438ff3011e5",
+            "0xc5ccfe9a0c45f73475e747b30d816af6c6ad1970",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10190683,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.503658488497325137",
+            "0.000000081629618708",
+            "0.000220254028329701",
+            "17.590446481464166441"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0x951763756df8811575f2c7f7cf8761b74147ea7d",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10318806,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["500.000000000000000001", "0.000000000000000000"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0x0841ff0eb875a73ad26ea7a3eb182e8b99abe539"
+        ]
+    },
+    {
+        "blockNumber": 10297318,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["0.000000000000000000", "5679.139923092935161906"],
+        "addresses": [
+            "0xbee891997340477f9479fc9ea8f29d9f0ff2fb34",
+            "0x33669137fc9259e547c73d8c15870caed024b8f4"
+        ]
+    },
+    {
+        "blockNumber": 10297172,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["399.000000000000000000", "5600.000000000000000000"],
+        "addresses": [
+            "0xbee891997340477f9479fc9ea8f29d9f0ff2fb34",
+            "0x33669137fc9259e547c73d8c15870caed024b8f4"
+        ]
+    },
+    {
+        "blockNumber": 10273639,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.005941979983855695",
+            "0.010034423373754245",
+            "0.000500000000000000",
+            "22.653232577194752016",
+            "1.713214025153042163"
+        ],
+        "addresses": [
+            "0x381479aef601d864a0b3882e96e23438ff3011e5",
+            "0x75286e183d923a5f52f52be205e358c5c9101b09",
+            "0xbaa6de4acc1fe7f44e80c58ddf5a61f3c08e0c55",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0xd68a5ccde1e5273c79cd40711fe4750122cdd865"
+        ]
+    },
+    {
+        "blockNumber": 10328332,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["49999.999999999999990149", "0.000000000000009851"],
+        "addresses": [
+            "0x7d2f4bcb767eb190aed0f10713fe4d9c07079ee8",
+            "0xeeff6fd32deafe1a9d3258a51c7f952f9ff0b2ce"
+        ]
+    },
+    {
+        "blockNumber": 10232452,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["50.696658000000000000"],
+        "addresses": ["0x434ded09939b64cd76baa81f9a394283d4c71f05"]
+    },
+    {
+        "blockNumber": 10198107,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.508140043233562966",
+            "0.000000151790040344",
+            "17.647317586863062694"
+        ],
+        "addresses": [
+            "0x0b5e26829b72654620cd431e685fd71ad956e58e",
+            "0x693c188e40f760ecf00d2946ef45260b84fbc43e",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10320453,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": [
+            "0.005973944262694249",
+            "17.681666605110599119",
+            "0.000000000000000000"
+        ],
+        "addresses": [
+            "0x381479aef601d864a0b3882e96e23438ff3011e5",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12",
+            "0x07f58c9792bc03443d7b96ed314800a911a11680"
+        ]
+    },
+    {
+        "blockNumber": 10279407,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["434.554049146668886141", "0.000000000000000000"],
+        "addresses": [
+            "0x17a791d8e241d4be11a59f7073b3122bb019facd",
+            "0xe4a8e622079493b74651774aa2eb1dff45b52557"
+        ]
+    },
+    {
+        "blockNumber": 10329982,
+        "token": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "amounts": ["6.966957242280269129", "22.225091783245449201"],
+        "addresses": [
+            "0x92c366872c71d2751068690939d0c972e8241377",
+            "0xd4dbf96db2fdf8ed40296d8d104b371adf7dee12"
+        ]
+    },
+    {
+        "blockNumber": 10324501,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["60143.680000000000000000", "856.320000000000000000"],
+        "addresses": [
+            "0x0554a200988cf265b3aa35436a903d51fac47112",
+            "0x302abcedf32b8534970a70c21eb848fc9af19f31"
+        ]
+    },
+    {
+        "blockNumber": 10292204,
+        "token": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e",
+        "amounts": ["10000.000000000000000000", "7999.000000000000000000"],
+        "addresses": [
+            "0x7570d3a456e659ab7d475db30a26745e67d6a97b",
+            "0xadfafe698cba74f0530fc66331649aa6be40656b"
+        ]
+    }
+]

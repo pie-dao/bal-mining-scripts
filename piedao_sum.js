@@ -30,7 +30,7 @@ const BLOCKS_PER_SNAPSHOT = 64;
         // Get all files in report directory
         for (i = END_BLOCK; i > START_BLOCK; i -= BLOCKS_PER_SNAPSHOT) {
             const jsonString = fs.readFileSync(
-                `./reports/piedao/${WEEK}/${i}.json`
+                `./reports/piedao/${argv.token}/${WEEK}/${i}.json`
             );
             const report = JSON.parse(jsonString);
 
@@ -58,7 +58,10 @@ const BLOCKS_PER_SNAPSHOT = 64;
                 sortedUserTotal[key] = val;
             });
         console.log(`Total BAL distributed ${balTotal.toString()}`);
-        utils.writeData(sortedUserTotal, `piedao/${WEEK}/_totals`);
+        utils.writeData(
+            sortedUserTotal,
+            `piedao/${argv.token}/${WEEK}/_totals`
+        );
     } catch (e) {
         console.error('Error reading reports', e);
     }
