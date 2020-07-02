@@ -305,6 +305,22 @@ const updateBalances = async (blockNumber) => {
             continue;
         }
 
+        if (
+            token === '0x381479aef601d864a0b3882e96e23438ff3011e5' &&
+            blockNumber < 10202297
+        ) {
+            console.log(token, 'does not exist at this block');
+            continue;
+        }
+
+        if (
+            token === '0xd764bb9822ee16097140031b017640e7a293e57f' &&
+            blockNumber < 10301956
+        ) {
+            console.log(token, 'does not exist at this block');
+            continue;
+        }
+
         if (skipResponse.rows.length > 0) {
             console.log('Balance already stored in the database');
             continue;
@@ -372,7 +388,7 @@ const updateBalances = async (blockNumber) => {
 
         console.log('found', blockNumbers.length, 'blocks');
 
-        await updateAccountHolderList();
+        // await updateAccountHolderList();
 
         for (let i = 0; i < blockNumbers.length; i += 1) {
             await updateBalances(blockNumbers[i]);
