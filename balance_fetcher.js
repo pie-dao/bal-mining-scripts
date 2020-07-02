@@ -62,6 +62,11 @@ if (argv.skipTokens) {
     skipTokens = argv.skipTokens.split(',');
 }
 
+let onlyTokens = [];
+if (argv.onlyTokens) {
+    onlyTokens = argv.onlyTokens.split(',');
+}
+
 const fetchBlockNumbers = async () => {
     console.log('Fetching block numbers');
     const blockIds = new Set();
@@ -109,6 +114,10 @@ const fetchBlockNumbers = async () => {
     for (let i = 0; i < tokenResponse.rows.length; i += 1) {
         const token = tokenResponse.rows[i].token;
         if (skipTokens.includes(token)) {
+            continue;
+        }
+
+        if (onlyTokens.length > 0 && !onlyTokens.includes(token)) {
             continue;
         }
 
@@ -222,6 +231,12 @@ const updateBalances = async (blockNumber) => {
 
     if (skipTokens.length > 0) {
         accountQuery = `${accountQuery} WHERE token NOT IN ('${skipTokens.join(
+            "','"
+        )}')`;
+    }
+
+    if (onlyTokens.length > 0) {
+        accountQuery = `${accountQuery} WHERE token IN ('${onlyTokens.join(
             "','"
         )}')`;
     }
@@ -384,7 +399,13 @@ const updateBalances = async (blockNumber) => {
 
 (async () => {
     try {
-        const blockNumbers = Array.from(await fetchBlockNumbers()).sort();
+        let blockNumbers = Array.from(await fetchBlockNumbers()).sort();
+        blockNumbers = blockNumbers.filter((block) => {
+            return (
+                block >= parseInt(argv.startBlock, 10) &&
+                block <= parseInt(argv.endBlock, 10)
+            );
+        });
 
         console.log('found', blockNumbers.length, 'blocks');
 
