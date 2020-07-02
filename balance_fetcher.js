@@ -312,26 +312,64 @@ const updateBalances = async (blockNumber) => {
                 `ORDER BY "blockNumber" DESC LIMIT 1`,
         });
 
-        if (
-            token === '0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e' &&
-            blockNumber < 10224368
-        ) {
-            console.log(token, 'does not exist at this block');
-            continue;
-        }
+        let skip = false;
 
-        if (
-            token === '0x381479aef601d864a0b3882e96e23438ff3011e5' &&
-            blockNumber < 10202297
-        ) {
-            console.log(token, 'does not exist at this block');
-            continue;
-        }
+        [
+            {
+                tokenToCheck: '0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e',
+                starts: 10224368,
+            },
+            {
+                tokenToCheck: '0x381479aef601d864a0b3882e96e23438ff3011e5',
+                starts: 10202297,
+            },
+            {
+                tokenToCheck: '0xd764bb9822ee16097140031b017640e7a293e57f',
+                starts: 10301956,
+            },
+            {
+                tokenToCheck: '0x302abcedf32b8534970a70c21eb848fc9af19f31',
+                starts: 10324501,
+            },
+            {
+                tokenToCheck: '0x7d2f4bcb767eb190aed0f10713fe4d9c07079ee8',
+                starts: 10328235,
+            },
+            {
+                tokenToCheck: '0x92c366872c71d2751068690939d0c972e8241377',
+                starts: 10329578,
+            },
+            {
+                tokenToCheck: '0x17a791d8e241d4be11a59f7073b3122bb019facd',
+                starts: 10279373,
+            },
+            {
+                tokenToCheck: '0x3aa60a199f776ec726560d6d1edeac7c2f85072c',
+                starts: 10330458,
+            },
+            {
+                tokenToCheck: '0x28deb2eaddf8dc85f51027d42f8b16ca3efb5462',
+                starts: 10326645,
+            },
+            {
+                tokenToCheck: '0x9dfa6626eaf26635d48210714ff7fe5ef09fb72f',
+                starts: 10347913,
+            },
+            {
+                tokenToCheck: '0x8cf00a2a0044c7632bf1075694567ecb7d069d1e',
+                starts: 10351980,
+            },
+            {
+                tokenToCheck: '0xd00c7066ed0fa2dd8e54d39caf4854e5eb3980ec',
+                starts: 10356769,
+            },
+        ].forEach(({ tokenToCheck, starts }) => {
+            if (token === tokenToCheck && blockNumber < starts) {
+                skip = true;
+            }
+        });
 
-        if (
-            token === '0xd764bb9822ee16097140031b017640e7a293e57f' &&
-            blockNumber < 10301956
-        ) {
+        if (skip) {
             console.log(token, 'does not exist at this block');
             continue;
         }
