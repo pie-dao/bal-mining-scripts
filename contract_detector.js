@@ -1,3 +1,5 @@
+const fs = require('fs');
+
 const { argv } = require('yargs');
 const { ethers } = require('ethers');
 const { Pool } = require('pg');
@@ -27,11 +29,14 @@ const detectContracts = async () => {
 
     const response = await client.query({ text: addressQuery });
 
+    console.log('Checking all', response.rows.length, 'account holders');
+
     for (let i = 0; i < response.rows.length; i += 1) {
         const { address } = response.rows[i];
 
         if ((await provider.getCode(address)) !== '0x') {
             contracts.add(address);
+            console.log('Detected', address);
         }
     }
 
@@ -42,7 +47,11 @@ const detectContracts = async () => {
 
 (async () => {
     try {
-        console.log(await detectContracts());
+        const contracts = await detectContracts();
+        fs.writeFileSync(
+            'reports/piedao/smart_contracts.json',
+            JSON.stringify(contracts, null, 4)
+        );
     } catch (e) {
         console.log(e);
     }

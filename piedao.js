@@ -58,7 +58,7 @@ if (
     !argv.amount
 ) {
     console.log(
-        'Usage: node index.js --week 1 --startBlock 10131642 --endBlock 10156690 --token 0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd --amount 6271.430272488392207776'
+        'Usage: node piedao.js --week 1 --startBlock 10131642 --endBlock 10156690 --token 0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd --amount 6271.430272488392207776'
     );
     process.exit();
 }
