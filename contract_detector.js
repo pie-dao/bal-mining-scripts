@@ -42,7 +42,7 @@ const detectContracts = async () => {
 
     client.release();
 
-    return contracts;
+    return Array.from(contracts).sort();
 };
 
 (async () => {
