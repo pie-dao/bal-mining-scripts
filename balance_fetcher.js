@@ -103,9 +103,13 @@ const fetchBlockNumbers = async () => {
     }
 
     // console.log(2);
+    const startBlockId = startBlockResponse.rows[0].id;
+    const endBlockId = endBlockResponse.rows[0].id;
 
-    blockIds.add(startBlockResponse.rows[0].id);
-    blockIds.add(endBlockResponse.rows[0].id);
+    blockIds.add(startBlockId);
+    blockIds.add(endBlockId);
+
+    const blockConstraint = `AND "blockId" < ${endBlockId} AND "blockId" > ${startBlockId}`;
 
     // console.log({ text: tokenQuery })
     const tokenResponse = await client.query({ text: tokenQuery });
@@ -123,16 +127,19 @@ const fetchBlockNumbers = async () => {
 
         // console.log({ text: `${fromQuery} '${token}'` });
         const fromResponse = await client.query({
-            text: `${fromQuery} '${token}'`,
+            text: `${fromQuery} '${token}' ${blockConstraint}`,
         });
         // console.log(fromResponse.rows);
         // console.log({ text: `${toQuery} '${token}'` });
         const toResponse = await client.query({
-            text: `${toQuery} '${token}'`,
+            text: `${toQuery} '${token}' ${blockConstraint}`,
         });
         // console.log(toResponse.rows);
         const dataResponse = await client.query({
-            text: `${dataQuery}${token.substring(2, token.length)}%'`,
+            text: `${dataQuery}${token.substring(
+                2,
+                token.length
+            )}%' ${blockConstraint}`,
         });
 
         fromResponse.rows.forEach(({ blockId }) => blockIds.add(blockId));
