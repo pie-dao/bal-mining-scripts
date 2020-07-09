@@ -4,6 +4,7 @@ const cliProgress = require('cli-progress');
 const fetch = require('isomorphic-fetch');
 const BigNumber = require('bignumber.js');
 const Web3 = require('web3');
+const { exec } = require('child_process');
 
 const web3 = new Web3(
     new Web3.providers.WebsocketProvider(`ws://localhost:8546`)
@@ -21,8 +22,11 @@ const scale = (input, decimalPlaces) => {
     return new BigNumber(input).times(scaleMul);
 };
 
-const writeData = (data, path) => {
+const writeData = async (data, path) => {
     try {
+        await new Promise((resolve) => {
+            exec(`mkdir -p ${path}`, () => resolve());
+        });
         fs.writeFileSync(
             `./reports/${path}.json`,
             JSON.stringify(data, null, 4)

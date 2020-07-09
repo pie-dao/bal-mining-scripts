@@ -58,7 +58,7 @@ const BLOCKS_PER_SNAPSHOT = 64;
                 sortedUserTotal[key] = val;
             });
         console.log(`Total BAL distributed ${balTotal.toString()}`);
-        utils.writeData(
+        await utils.writeData(
             sortedUserTotal,
             `piedao/${argv.token}/${WEEK}/_totals`
         );

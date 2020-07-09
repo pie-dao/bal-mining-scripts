@@ -70,7 +70,9 @@ if (argv.onlyTokens) {
 const fetchBlockNumbers = async () => {
     console.log('Fetching block numbers');
     const blockIds = new Set();
-    const client = await pool.connect();
+    const client1 = await pool.connect();
+    const client2 = await pool.connect();
+    const client3 = await pool.connect();
 
     const blockIdQuery = 'SELECT id FROM blocks WHERE number = $1';
     const tokenQuery = 'SELECT token FROM account_holders GROUP BY token';
@@ -84,11 +86,12 @@ const fetchBlockNumbers = async () => {
 
     // console.log({ text: blockIdQuery, values: [argv.startBlock] });
     // console.log({ text: blockIdQuery, values: [argv.endBlock] });
-    const startBlockResponse = await client.query({
+
+    const startBlockResponse = await client1.query({
         text: blockIdQuery,
         values: [argv.startBlock],
     });
-    const endBlockResponse = await client.query({
+    const endBlockResponse = await client1.query({
         text: blockIdQuery,
         values: [argv.endBlock],
     });
@@ -112,7 +115,7 @@ const fetchBlockNumbers = async () => {
     const blockConstraint = `AND "blockId" < ${endBlockId} AND "blockId" > ${startBlockId}`;
 
     // console.log({ text: tokenQuery })
-    const tokenResponse = await client.query({ text: tokenQuery });
+    const tokenResponse = await client1.query({ text: tokenQuery });
     // console.log(3, tokenResponse.rows);
 
     for (let i = 0; i < tokenResponse.rows.length; i += 1) {
@@ -125,6 +128,22 @@ const fetchBlockNumbers = async () => {
             continue;
         }
 
+        const [fromResponse, toResponse, dataResponse] = await Promise.all([
+            client1.query({
+                text: `${fromQuery} '${token}' ${blockConstraint}`,
+            }),
+            client2.query({
+                text: `${toQuery} '${token}' ${blockConstraint}`,
+            }),
+            client3.query({
+                text: `${dataQuery}${token.substring(
+                    2,
+                    token.length
+                )}%' ${blockConstraint}`,
+            }),
+        ]);
+
+        /*
         // console.log({ text: `${fromQuery} '${token}'` });
         const fromResponse = await client.query({
             text: `${fromQuery} '${token}' ${blockConstraint}`,
@@ -141,6 +160,7 @@ const fetchBlockNumbers = async () => {
                 token.length
             )}%' ${blockConstraint}`,
         });
+        */
 
         fromResponse.rows.forEach(({ blockId }) => blockIds.add(blockId));
         toResponse.rows.forEach(({ blockId }) => blockIds.add(blockId));
@@ -148,18 +168,22 @@ const fetchBlockNumbers = async () => {
     }
 
     // console.log(4, { text: `${multiBlockIdQuery} (${Array.from(blockIds).join(',')})` });
-    const response = await client.query({
+    const response = await client1.query({
         text: `${multiBlockIdQuery} (${Array.from(blockIds).join(',')})`,
     });
 
-    client.release();
+    client1.release();
+    client2.release();
+    client3.release();
 
     return new Set(response.rows.map(({ number }) => number));
 };
 
 const updateAccountHolderList = async () => {
     console.log('Updating list of account holders for all tokens');
-    const client = await pool.connect();
+    const client1 = await pool.connect();
+    const client2 = await pool.connect();
+    const client3 = await pool.connect();
 
     console.log(
         (await client.query({ text: 'SELECT COUNT(*) FROM account_holders' }))
@@ -184,6 +208,20 @@ const updateAccountHolderList = async () => {
 
     for (let i = 0; i < tokenResponse.rows.length; i += 1) {
         const token = tokenResponse.rows[i].token;
+
+        const [fromResponse, toResponse, dataResponse] = await Promise.all([
+            await client.query({
+                text: `${fromQuery} '${token}'`,
+            }),
+            await client.query({
+                text: `${toQuery} '${token}'`,
+            }),
+            await client.query({
+                text: `${dataQuery}${token.substring(2, token.length)}%'`,
+            }),
+        ]);
+
+        /*
         // console.log({ text: `${fromQuery} '${token}'` });
         const fromResponse = await client.query({
             text: `${fromQuery} '${token}'`,
@@ -197,36 +235,39 @@ const updateAccountHolderList = async () => {
         const dataResponse = await client.query({
             text: `${dataQuery}${token.substring(2, token.length)}%'`,
         });
+        */
 
         for (let t = 0; t < fromResponse.rows.length; t += 1) {
             const { to } = fromResponse.rows[t];
             const payload = { text: accountQuery, values: [token, to] };
             // console.log(payload);
-            await client.query(payload);
+            await client1.query(payload);
         }
 
         for (let t = 0; t < toResponse.rows.length; t += 1) {
             const { from } = toResponse.rows[t];
             const payload = { text: accountQuery, values: [token, from] };
             // console.log(payload);
-            await client.query(payload);
+            await client1.query(payload);
         }
 
         for (let t = 0; t < dataResponse.rows.length; t += 1) {
             const { from, to } = dataResponse.rows[t];
             let payload = { text: accountQuery, values: [token, from] };
-            await client.query(payload);
+            await client1.query(payload);
             payload = { text: accountQuery, values: [token, to] };
-            await client.query(payload);
+            await client1.query(payload);
         }
     }
 
     console.log(
-        (await client.query({ text: 'SELECT COUNT(*) FROM account_holders' }))
+        (await client1.query({ text: 'SELECT COUNT(*) FROM account_holders' }))
             .rows[0]
     );
 
-    client.release();
+    client1.release();
+    client2.release();
+    client3.release();
 };
 
 const contracts = {};

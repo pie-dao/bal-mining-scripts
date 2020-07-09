@@ -20,6 +20,12 @@ if (argv.wss) {
     provider = new ethers.providers.WebSocketProvider(argv.wss);
 }
 
+if (argv.rpc) {
+    provider = new ethers.providers.JsonRpcProvider(
+        'https://api.archivenode.io/1i3jfwuzh6pbyk90geln824scx5vr7dm'
+    );
+}
+
 const detectContracts = async () => {
     console.log('Detecting contract account holders');
     const contracts = new Set();

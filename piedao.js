@@ -155,7 +155,7 @@ const getRewardsAtBlock = async (i, contract, decimals, holders) => {
             holders
         );
         let path = `piedao/${argv.token}/${WEEK}/${i}`;
-        utils.writeData(blockRewards, path);
+        await utils.writeData(blockRewards, path);
     }
 
     process.exit();
