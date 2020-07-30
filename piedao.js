@@ -68,9 +68,9 @@ const START_BLOCK = argv.startBlock; // Closest block to reference time at begin
 const WEEK = argv.week; // Week for mining distributions. Ex: 1
 
 const BAL_PER_WEEK = bnum(argv.amount);
-const BLOCKS_PER_SNAPSHOT = 64;
+const BLOCKS_PER_SNAPSHOT = 256;
 const BAL_PER_SNAPSHOT = BAL_PER_WEEK.div(
-    bnum(Math.ceil((END_BLOCK - START_BLOCK) / 64))
+    bnum(Math.ceil((END_BLOCK - START_BLOCK) / 256))
 ); // Ceiling because it includes end block
 
 let provider = new ethers.providers.JsonRpcProvider(
@@ -128,6 +128,23 @@ const getRewardsAtBlock = async (i, contract, decimals, holders) => {
 
     client.release();
 
+    const finalBlockTotal = Object.keys(userLiquidity).reduce(
+        (sum, key) => sum.plus(userLiquidity[key]),
+        BigNumber(0)
+    );
+
+    if (BAL_PER_SNAPSHOT.isLessThan(finalBlockTotal)) {
+        console.log(
+            'ERROR: ',
+            finalBlockTotal.toFixed(18),
+            'is greater than',
+            BAL_PER_SNAPSHOT.toFixed(18),
+            'block',
+            i
+        );
+        process.exit();
+    }
+
     return userLiquidity;
 };
 
@@ -157,6 +174,8 @@ const getRewardsAtBlock = async (i, contract, decimals, holders) => {
         let path = `piedao/${argv.token}/${WEEK}/${i}`;
         await utils.writeData(blockRewards, path);
     }
+
+    console.log('BAL_PER_SNAPSHOT', BAL_PER_SNAPSHOT);
 
     process.exit();
 })();

@@ -21,6 +21,13 @@ if [ $# -ne 6 ]; then
   node account_holders.js --wss $NODE
 fi
 
+# On sanity check failures, comment these two out and uncomment the ones below
+echo "node balance_fetcher.js --startBlock $STARTBLOCK --endBlock $ENDBLOCK --wss $NODE"
+node balance_fetcher.js --startBlock $STARTBLOCK --endBlock $ENDBLOCK --wss $NODE
+
+# echo "node balance_fetcher.js --startBlock $STARTBLOCK --endBlock $ENDBLOCK --onlyTokens $BTC,$USD --wss $NODE"
+# node balance_fetcher.js --startBlock $STARTBLOCK --endBlock $ENDBLOCK --onlyTokens $BTC,$USD --wss $NODE
+
 mkdir -p ./reports/piedao/$BTC/$WEEK
 mkdir -p ./reports/piedao/$USD/$WEEK
 
