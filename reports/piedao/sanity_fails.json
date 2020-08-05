@@ -1,111 +1,55 @@
 {
     "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd": {
         "10380366": {
-            "0x90be78d603b616d52112d4bbb0f3b61db4fb822c": {
+            "0xfffff52c91555536130a417665265182567047a6": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfff66732389866aeaf8f7305da53f442c29e1b8f": {
-                "raw": "0.000000000000000000",
+            "0x3111b7716dcc3ddf8509b3efc320488e9e39faca": {
+                "raw": "0.002538671749687745",
                 "derived": true
             },
-            "0x11111254369792b2ca5d084ab5eea397ca8fa48b": {
-                "raw": "0.000000000000000000",
+            "0x31876edc17ba00b071202d4e719fb7d86bcb9270": {
+                "raw": "0.000911516645869198",
                 "derived": true
             },
-            "0xc722c4304b4912351d629f35b9d97924e965393b": {
-                "raw": "0.000000000000000000",
+            "0x3230a79c196958980f058d0dbd5e6a5fd3ea1778": {
+                "raw": "0.246945715110286394",
                 "derived": true
             },
-            "0x3548fbc04fc033e07e8004904d18fad502f4f307": {
-                "raw": "0.000000000000000000",
+            "0x381479aef601d864a0b3882e96e23438ff3011e5": {
+                "raw": "0.006274029135304441",
                 "derived": true
             },
-            "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
-                "raw": "0.000000000000000000",
+            "0x39c09fdc4e5c5ab72f6319ddbc2cae40e67b2a60": {
+                "raw": "0.000000079640192833",
                 "derived": true
             },
-            "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6": {
-                "raw": "0.000000000000000000",
+            "0x3a70e8c00f3bcf3eb845b6b6928aba92b465c183": {
+                "raw": "0.007028693451047309",
                 "derived": true
             },
-            "0xe59b150ab850ce59c3be44aaa963fd5239d658f6": {
-                "raw": "0.000000000000000000",
+            "0x3b59b33a49460c7d4609cf491ad6e946bef5a027": {
+                "raw": "0.000210571184642547",
                 "derived": true
             },
-            "0xdc2037c17ec03f6ae4121cb83830ecb18a5f4c7b": {
-                "raw": "0.000000000000000000",
+            "0x3efd3391a0601eaa093647f911c653d77c11e3fd": {
+                "raw": "0.003301969031167417",
                 "derived": true
             },
-            "0x97dec872013f6b5fb443861090ad931542878126": {
-                "raw": "0.000000000000000000",
+            "0x4059457092cc3812d56676df6a75fd21204fbe2f": {
+                "raw": "0.027703181566271488",
                 "derived": true
             },
-            "0xfffffaa025c51ebc01d505f6e2b20ca073a21d16": {
-                "raw": "0.000000000000000000",
+            "0x444c996b74631763ce0c406fcbe9aa13d35f395e": {
+                "raw": "0.001982246191283746",
                 "derived": true
             },
-            "0x9668dc9b53d0a72f5840d14e0a451d1bcf07b272": {
-                "raw": "0.000000000000000000",
+            "0x4527c75dfc50a5390dc663f81b627c39e7b9acad": {
+                "raw": "0.000000000000000038",
                 "derived": true
             },
-            "0x72b13de63c92f31aaf1caaaab2a6d1462e89c34c": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xff59364722a4622a8d33623548926375b1b07767": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffdce1ae835d35bb603c95163e510bb2604a1a41": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xff3769cdbd31893ef1b10a01ee0d8bd1f3773899": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x75434c066bcda433d9701bfff679e69b95984357": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xef50eed70d0ff96354368749877bf51bff73e4eb": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xc4303d911caaef2400387d3c221a9ae6f755411e": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xb418945ee17c7a933a8a3dd1e922767d1c063f9f": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffcdfd98c455c29818697ab2eeafccbc4e59fd3d": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xff28319a7cd2136ea7283e7cdb0675b50ac29dd2": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x2a33cb652fff44b52c7c950aa7ee1f3296dedeee": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x8e9d536bae9e2cf29d1ba86838c2ec782d7de5fb": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffbfdb803d38d794b5785ee0ac09f83b429d11b5": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffe1c5696d924438fba5274d7b5d8ffa29239a6f": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xff1b9745f68f84f036e5e92c920038d895fb701a": {
+            "0x8177573b5557e3a2213d4aec44abe7baef6d737d": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -113,7 +57,271 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x8177573b5557e3a2213d4aec44abe7baef6d737d": {
+            "0xff1b9745f68f84f036e5e92c920038d895fb701a": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffe1c5696d924438fba5274d7b5d8ffa29239a6f": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffbfdb803d38d794b5785ee0ac09f83b429d11b5": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x8e9d536bae9e2cf29d1ba86838c2ec782d7de5fb": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x2a33cb652fff44b52c7c950aa7ee1f3296dedeee": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xff28319a7cd2136ea7283e7cdb0675b50ac29dd2": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffcdfd98c455c29818697ab2eeafccbc4e59fd3d": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xb418945ee17c7a933a8a3dd1e922767d1c063f9f": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xc4303d911caaef2400387d3c221a9ae6f755411e": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xef50eed70d0ff96354368749877bf51bff73e4eb": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x75434c066bcda433d9701bfff679e69b95984357": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xff3769cdbd31893ef1b10a01ee0d8bd1f3773899": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffdce1ae835d35bb603c95163e510bb2604a1a41": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xff59364722a4622a8d33623548926375b1b07767": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x72b13de63c92f31aaf1caaaab2a6d1462e89c34c": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x4594ab61b53142dafe3a0762cca6ac00d6cf71f3": {
+                "raw": "0.189932771025426674",
+                "derived": true
+            },
+            "0x9668dc9b53d0a72f5840d14e0a451d1bcf07b272": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x97dec872013f6b5fb443861090ad931542878126": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xdc2037c17ec03f6ae4121cb83830ecb18a5f4c7b": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffff0c1e1b11b7d0be2ae5fc3a1db68662167a15": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffffb089f11f06690ea3cee21f8d8d8e6841ffa4": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xe59b150ab850ce59c3be44aaa963fd5239d658f6": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffc54e24fdd6a28855a61d563f0d50870d548": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x3548fbc04fc033e07e8004904d18fad502f4f307": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff142bb561a627443e4c505e03b668a4fbba7": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xc722c4304b4912351d629f35b9d97924e965393b": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff7703e84758d11e9dc0c046f1759b5c4d043": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff7bee659178c9ec0e0ba01ffb024457ef406": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff6ce95d9b9bc31734f61cbf85717450a2453": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x11111254369792b2ca5d084ab5eea397ca8fa48b": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfff66732389866aeaf8f7305da53f442c29e1b8f": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x90be78d603b616d52112d4bbb0f3b61db4fb822c": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff8a3d3e8326976022e685b3104fae51b4405": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xe1e855a6259fef1dd53e6aa2910fcba19babd337": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x510b96cef3a581dc45dad3141561124dfb4a4f20": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff7b5ba670cf3649ca0fb2db5396af13d77e3": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffe23e35d51d3c2d0cbc8c07b3aba0d8a5ddf": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xf1ad4bfdf8829d55ec0ce7900ef9d122b2610673": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffb1248ed45bc35370a6a3e4a3e7e5c721ac8": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff682b839b77f9583529b8f141190f4bf4c03": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffe903ce4ce254e286a90f54881e54a6bffb0": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffff6ba3949f6b0fb775959873e1d8bcb9500e01": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffff25ce6ef41f40b4db508b590b057cf2be5d89": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff36a3086576aa81741d7bcd171f8170f09bc": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffff6c9b28cfe35b28f171f237ba3dc35f5c4103": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffe6fb464f3ba0e55fda52694c06c27d8a43e": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff9e3909385f33f964da4bd0738ab6e3c18fe": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x303b6c0d8608b6683caff4f7e1cfab556323ee35": {
+                "raw": "0.000000000000000007",
+                "derived": true
+            },
+            "0xfffffd7a4656995fbea6fb486fdab13ab904ba81": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff80c63b08f6e0f1eefdedeed8da9ae122b77": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffffff3f31cb8be98fc3e2d603cc8d6a92ad4d3c": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff9dcc3d0ddad9ede7b0da228ae72abbefa4a": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff33102c8bbf789d864f3860d03827cb4960e": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffcf997a338dabebc43b67a891a5c76ff6c2f": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffffbfbe7d666b3faa91cb9c3991c43b5c8022da": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffb25a9a7b9267f685703a40f6142b28ba76c": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffedd7f2144b783d169f6e975c4a6ee8b4d50": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffb2a87e9e1e4502191fe642b1a7c5c2f8889": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffe48b74f0882ba53e2b8462201d20bec4fab": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffff0b18ee6cfa16f0640a5d6d1e4be6fa5a0ea3": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffbcdb0a275f73460582b1f40e0aa10940147": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff3ec6f63fd1d4c0474dcc65a4da48d7e43cd": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffffe2303c8d2f08dfbc87c96411e619d77f3129": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffaa025c51ebc01d505f6e2b20ca073a21d16": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -137,119 +345,127 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff8d15bbabfd139b153be153f9598c53f77d9": {
+            "0x8418f91b7ac9eaaea472f1c8a2690121f1054e78": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff4d5d0244270a6e3474011a80573893f2025": {
+            "0x857e6fbb7518fe4fc28667c5581c329f9a571b6c": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff80c63b08f6e0f1eefdedeed8da9ae122b77": {
+            "0xbac3919c732e1c0aee6b8d6149a1e773bca12b86": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff9e3909385f33f964da4bd0738ab6e3c18fe": {
+            "0x81b5ec3be3d9339299e56665d8206d4d28ece898": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffe6fb464f3ba0e55fda52694c06c27d8a43e": {
+            "0xa0ebb63205d4c5dd57202683732dbd2077d1e8bb": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff6c9b28cfe35b28f171f237ba3dc35f5c4103": {
+            "0x66ada96594b6379ad2536f5fdc11cce235dd99be": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff36a3086576aa81741d7bcd171f8170f09bc": {
+            "0x434ded09939b64cd76baa81f9a394283d4c71f05": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff25ce6ef41f40b4db508b590b057cf2be5d89": {
+            "0x38ab0fde4f152bdbc9e8ac44f0e9f56f092fbe79": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff6ba3949f6b0fb775959873e1d8bcb9500e01": {
+            "0x4a22c8d17a7287902212d8089d65c0f5b1428ca6": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffe903ce4ce254e286a90f54881e54a6bffb0": {
+            "0x414354db069cea6fa536c3d2ea1bbf5730b7715c": {
+                "raw": "0.003464916491974300",
+                "derived": true
+            },
+            "0x34fa4af2d182209956fa69d849953a4c0402002a": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffb1248ed45bc35370a6a3e4a3e7e5c721ac8": {
+            "0x5f78fbab81f9892bbe379d88c8a224774411b0a9": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xbc23e50c2287f481288f29fecd5ca6ff00c72083": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x67fdb08f645cae74607b807d14c09c400ef4f6b7": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xb61642cdef7f494c603acdb94e2617fbf8a1c5f3": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xb24b54fe5a3adcb4cb3b27d31b6c7f7e9f6a73a7": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x07f58c9792bc03443d7b96ed314800a911a11680": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x20c75587792bd5bfbe96abb680e9faea5b3edd9f": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x3212b29e33587a00fb1c83346f5dbfa69a458923": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x6317c5e82a06e1d8bf200d21f4510ac2c038ac81": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x5228a22e72ccc52d415ecfd199f99d0665e7733b": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xa2881a90bf33f03e7a3f803765cd2ed5c8928dfb": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x91bba529a4e469758cd3832305586fd1e8161edd": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x00000f2d00b7a76100366c0013c2000595ee0067": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xe2d9566a6f0f0c29561da35a8d1cab1430eeaf56": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x498b859d2e59958e209d7dd262324c8d31b12b12": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x40dde6092a77ec2d00eb4fa14f0c5d92d835d673": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x9d22a13c36e10b9630dda6a3a3c0af2076ab88d5": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xdd5a1c148ca114af2f4ebc639ce21fed4730a608": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x103675510a219bd84ce91d1bcb82ca194d665a09": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
             "0xd08131920d9890343f5e2d02fa206a0167b1e235": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffff0c1e1b11b7d0be2ae5fc3a1db68662167a15": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffffb089f11f06690ea3cee21f8d8d8e6841ffa4": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xf1ad4bfdf8829d55ec0ce7900ef9d122b2610673": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffc54e24fdd6a28855a61d563f0d50870d548": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff142bb561a627443e4c505e03b668a4fbba7": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff7703e84758d11e9dc0c046f1759b5c4d043": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff7bee659178c9ec0e0ba01ffb024457ef406": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff6ce95d9b9bc31734f61cbf85717450a2453": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff8a3d3e8326976022e685b3104fae51b4405": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff7b5ba670cf3649ca0fb2db5396af13d77e3": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff682b839b77f9583529b8f141190f4bf4c03": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff52c91555536130a417665265182567047a6": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffd7a4656995fbea6fb486fdab13ab904ba81": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffffff3f31cb8be98fc3e2d603cc8d6a92ad4d3c": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff9dcc3d0ddad9ede7b0da228ae72abbefa4a": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff33102c8bbf789d864f3860d03827cb4960e": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -317,58 +533,6 @@
                 "raw": "0.000000000000000003",
                 "derived": true
             },
-            "0x303b6c0d8608b6683caff4f7e1cfab556323ee35": {
-                "raw": "0.000000000000000007",
-                "derived": true
-            },
-            "0x3111b7716dcc3ddf8509b3efc320488e9e39faca": {
-                "raw": "0.002538671749687745",
-                "derived": true
-            },
-            "0x31876edc17ba00b071202d4e719fb7d86bcb9270": {
-                "raw": "0.000911516645869198",
-                "derived": true
-            },
-            "0x3230a79c196958980f058d0dbd5e6a5fd3ea1778": {
-                "raw": "0.246945715110286394",
-                "derived": true
-            },
-            "0x381479aef601d864a0b3882e96e23438ff3011e5": {
-                "raw": "0.006274029135304441",
-                "derived": true
-            },
-            "0x39c09fdc4e5c5ab72f6319ddbc2cae40e67b2a60": {
-                "raw": "0.000000079640192833",
-                "derived": true
-            },
-            "0x3a70e8c00f3bcf3eb845b6b6928aba92b465c183": {
-                "raw": "0.007028693451047309",
-                "derived": true
-            },
-            "0x3b59b33a49460c7d4609cf491ad6e946bef5a027": {
-                "raw": "0.000210571184642547",
-                "derived": true
-            },
-            "0x3efd3391a0601eaa093647f911c653d77c11e3fd": {
-                "raw": "0.003301969031167417",
-                "derived": true
-            },
-            "0x4059457092cc3812d56676df6a75fd21204fbe2f": {
-                "raw": "0.027703181566271488",
-                "derived": true
-            },
-            "0x444c996b74631763ce0c406fcbe9aa13d35f395e": {
-                "raw": "0.001982246191283746",
-                "derived": true
-            },
-            "0x4527c75dfc50a5390dc663f81b627c39e7b9acad": {
-                "raw": "0.000000000000000038",
-                "derived": true
-            },
-            "0x4594ab61b53142dafe3a0762cca6ac00d6cf71f3": {
-                "raw": "0.189932771025426674",
-                "derived": true
-            },
             "0x486eaab71360a0e7bade22509a86815b1a2eada2": {
                 "raw": "0.007396043766971277",
                 "derived": true
@@ -379,6 +543,14 @@
             },
             "0x4a23135b15417aedeaa7a48c5d5cd80c2b5df300": {
                 "raw": "0.000214326082908057",
+                "derived": true
+            },
+            "0xfffff4d5d0244270a6e3474011a80573893f2025": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff8d15bbabfd139b153be153f9598c53f77d9": {
+                "raw": "0.000000000000000000",
                 "derived": true
             },
             "0x4f99632a3ea59a7197ac566a7976d03f51293ec7": {
@@ -693,283 +865,131 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x8418f91b7ac9eaaea472f1c8a2690121f1054e78": {
+            "0xfffff7e0d12431c24c6cf9da2490bd9d331f1228": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x857e6fbb7518fe4fc28667c5581c329f9a571b6c": {
+            "0x4f5f10ad90d3cb4b1be5fa9d3fae507ecf57ddd8": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xbac3919c732e1c0aee6b8d6149a1e773bca12b86": {
+            "0xf8fc902289efd1f2fe3703f76a64c14e239b2544": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x81b5ec3be3d9339299e56665d8206d4d28ece898": {
+            "0x553de6c52ca165f63196b5dd80817f8636d029ac": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xa0ebb63205d4c5dd57202683732dbd2077d1e8bb": {
+            "0x000000000025d4386f7fb58984cbe110aee3a4c4": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x66ada96594b6379ad2536f5fdc11cce235dd99be": {
+            "0xfffff0205b28e68e3fba92c4ee2da6e58aa051c1": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x434ded09939b64cd76baa81f9a394283d4c71f05": {
+            "0xfffff9fe16e86cb70860ec1d1cf50c723c1e1bc3": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x38ab0fde4f152bdbc9e8ac44f0e9f56f092fbe79": {
+            "0xfffff7b18557372f049a460b7096d45c06846bf0": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x4a22c8d17a7287902212d8089d65c0f5b1428ca6": {
+            "0xffff5c32e13cf6ac0c5b20204f0aa0d53f0da29a": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x414354db069cea6fa536c3d2ea1bbf5730b7715c": {
-                "raw": "0.003464916491974300",
-                "derived": true
-            },
-            "0x34fa4af2d182209956fa69d849953a4c0402002a": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x5f78fbab81f9892bbe379d88c8a224774411b0a9": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xbc23e50c2287f481288f29fecd5ca6ff00c72083": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x67fdb08f645cae74607b807d14c09c400ef4f6b7": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xb61642cdef7f494c603acdb94e2617fbf8a1c5f3": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xb24b54fe5a3adcb4cb3b27d31b6c7f7e9f6a73a7": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x07f58c9792bc03443d7b96ed314800a911a11680": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x20c75587792bd5bfbe96abb680e9faea5b3edd9f": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x3212b29e33587a00fb1c83346f5dbfa69a458923": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffcf997a338dabebc43b67a891a5c76ff6c2f": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x6317c5e82a06e1d8bf200d21f4510ac2c038ac81": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x5228a22e72ccc52d415ecfd199f99d0665e7733b": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffffbfbe7d666b3faa91cb9c3991c43b5c8022da": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffb25a9a7b9267f685703a40f6142b28ba76c": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffedd7f2144b783d169f6e975c4a6ee8b4d50": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffb2a87e9e1e4502191fe642b1a7c5c2f8889": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xa2881a90bf33f03e7a3f803765cd2ed5c8928dfb": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x91bba529a4e469758cd3832305586fd1e8161edd": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffe48b74f0882ba53e2b8462201d20bec4fab": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x00000f2d00b7a76100366c0013c2000595ee0067": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xe2d9566a6f0f0c29561da35a8d1cab1430eeaf56": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffff0b18ee6cfa16f0640a5d6d1e4be6fa5a0ea3": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x498b859d2e59958e209d7dd262324c8d31b12b12": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffbcdb0a275f73460582b1f40e0aa10940147": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x40dde6092a77ec2d00eb4fa14f0c5d92d835d673": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x9d22a13c36e10b9630dda6a3a3c0af2076ab88d5": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xdd5a1c148ca114af2f4ebc639ce21fed4730a608": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x103675510a219bd84ce91d1bcb82ca194d665a09": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff3ec6f63fd1d4c0474dcc65a4da48d7e43cd": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffffe2303c8d2f08dfbc87c96411e619d77f3129": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffe23e35d51d3c2d0cbc8c07b3aba0d8a5ddf": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x510b96cef3a581dc45dad3141561124dfb4a4f20": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xe1e855a6259fef1dd53e6aa2910fcba19babd337": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff7ba3ca866a9bf1054cc2fdc2cc7bb819d4b": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffe71df0c1cfa00c161b28431757d5065364c": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffe42f62d3c9153f31d212ba505d338d082a2": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffeccc0739fa6f857be30286195085c748a10": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff2f37b8de262530c748a955651ba57c8ee53": {
+            "0xff910355ad1d3d12e8be75a512553e479726ab45": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff1d0543609e64d325cabd922cc2fcac24e50a": {
+            "0xfffff627a8bcc2d554042c79a9aa6f8ad4088962": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffc26bc0116ddda7f39c50779040b5fbf2d34": {
+            "0xfffff726f102c084d6aee24c2703f16523edbc22": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xc249265d2651d1e373df7a2dafdd6d9ffeeef37b": {
+            "0xffffdc9e27506f95661f4e690d6eca40c0d8692f": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff2e36b01f4aeb3265d4f7d2a842f2ad3e94f": {
+            "0xfffff6eabcfe910849ed8fa8c2f7c3c160745a3c": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff6724ac23af3084412ebec9ef40ab29d1461": {
+            "0xffff5a0d7425a98521f25551886c9b1b5e85032c": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffd1f8e65ec713b01ad40ae61e11dbcaa3379": {
+            "0xffff00684f76075370136b60080693941e87223c": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff5907ab9436ad0d3695c20829c316abfb67e": {
+            "0xffffca75cffadf104a900ab190193272bc6b81b1": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffde9129c575cbad976504352520c8d32678e": {
+            "0xfffffaa968855d39be7c743e6555a86ee20e099d": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffb5e6b4ebd59e087a7965729fda487877eda": {
+            "0xfffffdccb30a822ef31fdd97f5e521ef0fa6bdf9": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff07d068183623277f89213f1e852ea61889d": {
+            "0xfffffdc7a2b1cb11000decb3826053dabb8ae792": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff8f302e8229179ae4dd6dbfe2c7cf633b688": {
+            "0xffffff0cea9fdf1364fbeedba50c6586faef665f": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff5839b1df6ea02be595f81efa087ea5b1fe0": {
+            "0xffff35a53c0a9e93e570371dbf27af1b800148ac": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff0a21979d8ede2748540f5a3b33f6399b97b0": {
+            "0xfffff2c1a8e2516fa4b70db4d6925050aa04db48": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff03ad3f1dda7a7b28455e3c1e6fa5a6ecffd": {
+            "0xfffffa50c90dcc944d5441e8fb2e8775dc1f2b29": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffffff2702a902b76d5f864e84ef1249b1ef2ee8": {
+            "0xfffff2cddc125ee8c837ed95ef5ae7550517d26b": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffc317b3bf80dc2563f28c033116f7a3648b9": {
+            "0xffffd449917b34e2c0f80ae2beb12a61049c49b8": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff88045a01953433fbbfa69dec5d35c7a0043": {
+            "0xfffff1c754f1e2935bcf2c615b7d8f5c53a2a5ea": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff0ced03c6601d506c740338fc0e70666532f": {
+            "0xfffff3ce53a767e35e4d7a43a70c19012a240902": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff2213de7403f9cca629977086cbe4ebc8083": {
+            "0xffff44723b43f90dbc44044c78760841ab6a4f3e": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff3bbd7c3969560328b822be1c55c7d7120d2": {
+            "0xffffd7a83e7a361d67c7b16213839f188bf8661a": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffa5e0a58e445e980deb286571ebed813258c": {
+            "0xfffff92c625601758017935308670df9a5832342": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff08878c5c9a84519634d2cd75d740a5c0ea7": {
+            "0xfffff7d38d51b3a43c3b23ac31504ed66fa7e19a": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -2173,27 +2193,19 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
+            "0xfffff7ba3ca866a9bf1054cc2fdc2cc7bb819d4b": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
             "0xfffff8b220850dc0fe8714c9cdb4ac566672ea64": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff8bdcabcab842ed891d5f94039fc303ea4fe": {
+            "0xfffffe71df0c1cfa00c161b28431757d5065364c": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff6c8787a9db0e789b2997f8495bb47d21da1": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff71382407a8c13dfd455c36dd920cf098400": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffe9d317df4173a795b5dfe3c5fcc148f021e": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffffc28dde000d4354ba7680cc66f02f9b67a003": {
+            "0xfffffe42f62d3c9153f31d212ba505d338d082a2": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -2201,131 +2213,159 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x4f5f10ad90d3cb4b1be5fa9d3fae507ecf57ddd8": {
+            "0xffffc28dde000d4354ba7680cc66f02f9b67a003": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xf8fc902289efd1f2fe3703f76a64c14e239b2544": {
+            "0xfffffe9d317df4173a795b5dfe3c5fcc148f021e": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x553de6c52ca165f63196b5dd80817f8636d029ac": {
+            "0xfffff71382407a8c13dfd455c36dd920cf098400": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x000000000025d4386f7fb58984cbe110aee3a4c4": {
+            "0xfffff6c8787a9db0e789b2997f8495bb47d21da1": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff0205b28e68e3fba92c4ee2da6e58aa051c1": {
+            "0xfffff8bdcabcab842ed891d5f94039fc303ea4fe": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff9fe16e86cb70860ec1d1cf50c723c1e1bc3": {
+            "0xfffff08878c5c9a84519634d2cd75d740a5c0ea7": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff7b18557372f049a460b7096d45c06846bf0": {
+            "0xfffffa5e0a58e445e980deb286571ebed813258c": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff5c32e13cf6ac0c5b20204f0aa0d53f0da29a": {
+            "0xfffff3bbd7c3969560328b822be1c55c7d7120d2": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xff910355ad1d3d12e8be75a512553e479726ab45": {
+            "0xfffff2213de7403f9cca629977086cbe4ebc8083": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff627a8bcc2d554042c79a9aa6f8ad4088962": {
+            "0xfffff0ced03c6601d506c740338fc0e70666532f": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff726f102c084d6aee24c2703f16523edbc22": {
+            "0xfffff88045a01953433fbbfa69dec5d35c7a0043": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffffdc9e27506f95661f4e690d6eca40c0d8692f": {
+            "0xfffffc317b3bf80dc2563f28c033116f7a3648b9": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff6eabcfe910849ed8fa8c2f7c3c160745a3c": {
+            "0xffffff2702a902b76d5f864e84ef1249b1ef2ee8": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff5a0d7425a98521f25551886c9b1b5e85032c": {
+            "0xfffff03ad3f1dda7a7b28455e3c1e6fa5a6ecffd": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff00684f76075370136b60080693941e87223c": {
+            "0xffff0a21979d8ede2748540f5a3b33f6399b97b0": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffffca75cffadf104a900ab190193272bc6b81b1": {
+            "0xfffff5839b1df6ea02be595f81efa087ea5b1fe0": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffaa968855d39be7c743e6555a86ee20e099d": {
+            "0xfffff8f302e8229179ae4dd6dbfe2c7cf633b688": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffdccb30a822ef31fdd97f5e521ef0fa6bdf9": {
+            "0xfffff07d068183623277f89213f1e852ea61889d": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff7e0d12431c24c6cf9da2490bd9d331f1228": {
+            "0xfffffb5e6b4ebd59e087a7965729fda487877eda": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffdc7a2b1cb11000decb3826053dabb8ae792": {
+            "0xfffffde9129c575cbad976504352520c8d32678e": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffffff0cea9fdf1364fbeedba50c6586faef665f": {
+            "0xfffff5907ab9436ad0d3695c20829c316abfb67e": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff35a53c0a9e93e570371dbf27af1b800148ac": {
+            "0xfffffd1f8e65ec713b01ad40ae61e11dbcaa3379": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff2c1a8e2516fa4b70db4d6925050aa04db48": {
+            "0xfffff6724ac23af3084412ebec9ef40ab29d1461": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffa50c90dcc944d5441e8fb2e8775dc1f2b29": {
+            "0xfffff2e36b01f4aeb3265d4f7d2a842f2ad3e94f": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff2cddc125ee8c837ed95ef5ae7550517d26b": {
+            "0xc249265d2651d1e373df7a2dafdd6d9ffeeef37b": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffffd449917b34e2c0f80ae2beb12a61049c49b8": {
+            "0xfffffc26bc0116ddda7f39c50779040b5fbf2d34": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff1c754f1e2935bcf2c615b7d8f5c53a2a5ea": {
+            "0xffff1d0543609e64d325cabd922cc2fcac24e50a": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff3ce53a767e35e4d7a43a70c19012a240902": {
+            "0xfffff2f37b8de262530c748a955651ba57c8ee53": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff44723b43f90dbc44044c78760841ab6a4f3e": {
+            "0xfffffeccc0739fa6f857be30286195085c748a10": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffffd7a83e7a361d67c7b16213839f188bf8661a": {
+            "0xfffff4424654071ee17fbe45e3bcb24377890c56": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff92c625601758017935308670df9a5832342": {
+            "0x8b66bd4e5060ecdf971b68abb4ed4641a86849b6": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff7d38d51b3a43c3b23ac31504ed66fa7e19a": {
+            "0xa3edba6e1dc561eca26b278abeaf93bd32b1891b": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xd1b6a9fe7a221da43e8934c207bcfd1bc5cf36d5": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff7a0c72ab8411441c71fb8c227ced5108828": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x66f37100a794d591417373b12e2503666fe83f69": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xe7b17abbc434570c39377de7afc4363c8f272623": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffff4dc4622b3e9d19a387b0ce224b1569f4e12a": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x264ca432040484b9ba30738839e806101ddbdfbb": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffa155bec70586dcbc2fbc0d282ec04a1211a": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -2401,6 +2441,10 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
+            "0xfffff414ead2090215334049d6d178b5d71113fc": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
             "0xfffff695534611a6e6d2a2fb5f715002996ff083": {
                 "raw": "0.000000000000000000",
                 "derived": true
@@ -2438,10 +2482,6 @@
                 "derived": true
             },
             "0xffffd1b074ea501eae3bc3c599d81f9f69ddcad1": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xb08fd15efcf3f54f6831857102a854e3715b67df": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -2505,7 +2545,7 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff414ead2090215334049d6d178b5d71113fc": {
+            "0xb08fd15efcf3f54f6831857102a854e3715b67df": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -2657,63 +2697,19 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff4424654071ee17fbe45e3bcb24377890c56": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x8b66bd4e5060ecdf971b68abb4ed4641a86849b6": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xa3edba6e1dc561eca26b278abeaf93bd32b1891b": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xd1b6a9fe7a221da43e8934c207bcfd1bc5cf36d5": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff7a0c72ab8411441c71fb8c227ced5108828": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x66f37100a794d591417373b12e2503666fe83f69": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xe7b17abbc434570c39377de7afc4363c8f272623": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffff4dc4622b3e9d19a387b0ce224b1569f4e12a": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x264ca432040484b9ba30738839e806101ddbdfbb": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffa155bec70586dcbc2fbc0d282ec04a1211a": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xd2d3f61e6f169e8d358dfac7274bd4bcdf3dee12": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
             "0x244505cd66dc4cc15e58b61e0cd068d464229010": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x049940feda4277b7f01ef10fca0b975c541d8fca": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x01c61dfb5c0ea5186c9256ab48120633a9f0dd81": {
+            "0xeb911b242a3a7e6cd22f100579da2fbe1a10f732": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
             "0x035e8e3fa24b2865c182e52ab1de413f6ec8e5de": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x01c61dfb5c0ea5186c9256ab48120633a9f0dd81": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -2733,7 +2729,11 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xeb911b242a3a7e6cd22f100579da2fbe1a10f732": {
+            "0xd2d3f61e6f169e8d358dfac7274bd4bcdf3dee12": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x049940feda4277b7f01ef10fca0b975c541d8fca": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -2742,111 +2742,55 @@
             "diff": "0.010810974436369847"
         },
         "10380381": {
-            "0x90be78d603b616d52112d4bbb0f3b61db4fb822c": {
+            "0xfffff52c91555536130a417665265182567047a6": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfff66732389866aeaf8f7305da53f442c29e1b8f": {
-                "raw": "0.000000000000000000",
+            "0x3111b7716dcc3ddf8509b3efc320488e9e39faca": {
+                "raw": "0.002538671749687745",
                 "derived": true
             },
-            "0x11111254369792b2ca5d084ab5eea397ca8fa48b": {
-                "raw": "0.000000000000000000",
+            "0x31876edc17ba00b071202d4e719fb7d86bcb9270": {
+                "raw": "0.000911516645869198",
                 "derived": true
             },
-            "0xc722c4304b4912351d629f35b9d97924e965393b": {
-                "raw": "0.000000000000000000",
+            "0x3230a79c196958980f058d0dbd5e6a5fd3ea1778": {
+                "raw": "0.246945715110286394",
                 "derived": true
             },
-            "0x3548fbc04fc033e07e8004904d18fad502f4f307": {
-                "raw": "0.000000000000000000",
+            "0x381479aef601d864a0b3882e96e23438ff3011e5": {
+                "raw": "0.006274029135304441",
                 "derived": true
             },
-            "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
-                "raw": "0.000000000000000000",
+            "0x39c09fdc4e5c5ab72f6319ddbc2cae40e67b2a60": {
+                "raw": "0.000000079640192833",
                 "derived": true
             },
-            "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6": {
-                "raw": "0.000000000000000000",
+            "0x3a70e8c00f3bcf3eb845b6b6928aba92b465c183": {
+                "raw": "0.007028693451047309",
                 "derived": true
             },
-            "0xe59b150ab850ce59c3be44aaa963fd5239d658f6": {
-                "raw": "0.000000000000000000",
+            "0x3b59b33a49460c7d4609cf491ad6e946bef5a027": {
+                "raw": "0.000210571184642547",
                 "derived": true
             },
-            "0xdc2037c17ec03f6ae4121cb83830ecb18a5f4c7b": {
-                "raw": "0.000000000000000000",
+            "0x3efd3391a0601eaa093647f911c653d77c11e3fd": {
+                "raw": "0.003301969031167417",
                 "derived": true
             },
-            "0x97dec872013f6b5fb443861090ad931542878126": {
-                "raw": "0.000000000000000000",
+            "0x4059457092cc3812d56676df6a75fd21204fbe2f": {
+                "raw": "0.027703181566271488",
                 "derived": true
             },
-            "0xfffffaa025c51ebc01d505f6e2b20ca073a21d16": {
-                "raw": "0.000000000000000000",
+            "0x444c996b74631763ce0c406fcbe9aa13d35f395e": {
+                "raw": "0.001982246191283746",
                 "derived": true
             },
-            "0x9668dc9b53d0a72f5840d14e0a451d1bcf07b272": {
-                "raw": "0.000000000000000000",
+            "0x4527c75dfc50a5390dc663f81b627c39e7b9acad": {
+                "raw": "0.000000000000000038",
                 "derived": true
             },
-            "0x72b13de63c92f31aaf1caaaab2a6d1462e89c34c": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xff59364722a4622a8d33623548926375b1b07767": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffdce1ae835d35bb603c95163e510bb2604a1a41": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xff3769cdbd31893ef1b10a01ee0d8bd1f3773899": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x75434c066bcda433d9701bfff679e69b95984357": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xef50eed70d0ff96354368749877bf51bff73e4eb": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xc4303d911caaef2400387d3c221a9ae6f755411e": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xb418945ee17c7a933a8a3dd1e922767d1c063f9f": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffcdfd98c455c29818697ab2eeafccbc4e59fd3d": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xff28319a7cd2136ea7283e7cdb0675b50ac29dd2": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x2a33cb652fff44b52c7c950aa7ee1f3296dedeee": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x8e9d536bae9e2cf29d1ba86838c2ec782d7de5fb": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffbfdb803d38d794b5785ee0ac09f83b429d11b5": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffe1c5696d924438fba5274d7b5d8ffa29239a6f": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xff1b9745f68f84f036e5e92c920038d895fb701a": {
+            "0x8177573b5557e3a2213d4aec44abe7baef6d737d": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -2854,7 +2798,271 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x8177573b5557e3a2213d4aec44abe7baef6d737d": {
+            "0xff1b9745f68f84f036e5e92c920038d895fb701a": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffe1c5696d924438fba5274d7b5d8ffa29239a6f": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffbfdb803d38d794b5785ee0ac09f83b429d11b5": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x8e9d536bae9e2cf29d1ba86838c2ec782d7de5fb": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x2a33cb652fff44b52c7c950aa7ee1f3296dedeee": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xff28319a7cd2136ea7283e7cdb0675b50ac29dd2": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffcdfd98c455c29818697ab2eeafccbc4e59fd3d": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xb418945ee17c7a933a8a3dd1e922767d1c063f9f": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xc4303d911caaef2400387d3c221a9ae6f755411e": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xef50eed70d0ff96354368749877bf51bff73e4eb": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x75434c066bcda433d9701bfff679e69b95984357": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xff3769cdbd31893ef1b10a01ee0d8bd1f3773899": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffdce1ae835d35bb603c95163e510bb2604a1a41": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xff59364722a4622a8d33623548926375b1b07767": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x72b13de63c92f31aaf1caaaab2a6d1462e89c34c": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x4594ab61b53142dafe3a0762cca6ac00d6cf71f3": {
+                "raw": "0.189932771025426674",
+                "derived": true
+            },
+            "0x9668dc9b53d0a72f5840d14e0a451d1bcf07b272": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x97dec872013f6b5fb443861090ad931542878126": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xdc2037c17ec03f6ae4121cb83830ecb18a5f4c7b": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffff0c1e1b11b7d0be2ae5fc3a1db68662167a15": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffffb089f11f06690ea3cee21f8d8d8e6841ffa4": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xe59b150ab850ce59c3be44aaa963fd5239d658f6": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffc54e24fdd6a28855a61d563f0d50870d548": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x3548fbc04fc033e07e8004904d18fad502f4f307": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff142bb561a627443e4c505e03b668a4fbba7": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xc722c4304b4912351d629f35b9d97924e965393b": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff7703e84758d11e9dc0c046f1759b5c4d043": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff7bee659178c9ec0e0ba01ffb024457ef406": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff6ce95d9b9bc31734f61cbf85717450a2453": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x11111254369792b2ca5d084ab5eea397ca8fa48b": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfff66732389866aeaf8f7305da53f442c29e1b8f": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x90be78d603b616d52112d4bbb0f3b61db4fb822c": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff8a3d3e8326976022e685b3104fae51b4405": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xe1e855a6259fef1dd53e6aa2910fcba19babd337": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x510b96cef3a581dc45dad3141561124dfb4a4f20": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff7b5ba670cf3649ca0fb2db5396af13d77e3": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffe23e35d51d3c2d0cbc8c07b3aba0d8a5ddf": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xf1ad4bfdf8829d55ec0ce7900ef9d122b2610673": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffb1248ed45bc35370a6a3e4a3e7e5c721ac8": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff682b839b77f9583529b8f141190f4bf4c03": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffe903ce4ce254e286a90f54881e54a6bffb0": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffff6ba3949f6b0fb775959873e1d8bcb9500e01": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffff25ce6ef41f40b4db508b590b057cf2be5d89": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff36a3086576aa81741d7bcd171f8170f09bc": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffff6c9b28cfe35b28f171f237ba3dc35f5c4103": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffe6fb464f3ba0e55fda52694c06c27d8a43e": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff9e3909385f33f964da4bd0738ab6e3c18fe": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x303b6c0d8608b6683caff4f7e1cfab556323ee35": {
+                "raw": "0.000000000000000007",
+                "derived": true
+            },
+            "0xfffffd7a4656995fbea6fb486fdab13ab904ba81": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff80c63b08f6e0f1eefdedeed8da9ae122b77": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffffff3f31cb8be98fc3e2d603cc8d6a92ad4d3c": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff9dcc3d0ddad9ede7b0da228ae72abbefa4a": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff33102c8bbf789d864f3860d03827cb4960e": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffcf997a338dabebc43b67a891a5c76ff6c2f": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffffbfbe7d666b3faa91cb9c3991c43b5c8022da": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffb25a9a7b9267f685703a40f6142b28ba76c": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffedd7f2144b783d169f6e975c4a6ee8b4d50": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffb2a87e9e1e4502191fe642b1a7c5c2f8889": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffe48b74f0882ba53e2b8462201d20bec4fab": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffff0b18ee6cfa16f0640a5d6d1e4be6fa5a0ea3": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffbcdb0a275f73460582b1f40e0aa10940147": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff3ec6f63fd1d4c0474dcc65a4da48d7e43cd": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffffe2303c8d2f08dfbc87c96411e619d77f3129": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffaa025c51ebc01d505f6e2b20ca073a21d16": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -2878,119 +3086,127 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff8d15bbabfd139b153be153f9598c53f77d9": {
+            "0x8418f91b7ac9eaaea472f1c8a2690121f1054e78": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff4d5d0244270a6e3474011a80573893f2025": {
+            "0x857e6fbb7518fe4fc28667c5581c329f9a571b6c": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff80c63b08f6e0f1eefdedeed8da9ae122b77": {
+            "0xbac3919c732e1c0aee6b8d6149a1e773bca12b86": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff9e3909385f33f964da4bd0738ab6e3c18fe": {
+            "0x81b5ec3be3d9339299e56665d8206d4d28ece898": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffe6fb464f3ba0e55fda52694c06c27d8a43e": {
+            "0xa0ebb63205d4c5dd57202683732dbd2077d1e8bb": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff6c9b28cfe35b28f171f237ba3dc35f5c4103": {
+            "0x66ada96594b6379ad2536f5fdc11cce235dd99be": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff36a3086576aa81741d7bcd171f8170f09bc": {
+            "0x434ded09939b64cd76baa81f9a394283d4c71f05": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff25ce6ef41f40b4db508b590b057cf2be5d89": {
+            "0x38ab0fde4f152bdbc9e8ac44f0e9f56f092fbe79": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff6ba3949f6b0fb775959873e1d8bcb9500e01": {
+            "0x4a22c8d17a7287902212d8089d65c0f5b1428ca6": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffe903ce4ce254e286a90f54881e54a6bffb0": {
+            "0x414354db069cea6fa536c3d2ea1bbf5730b7715c": {
+                "raw": "0.003464916491974300",
+                "derived": true
+            },
+            "0x34fa4af2d182209956fa69d849953a4c0402002a": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffb1248ed45bc35370a6a3e4a3e7e5c721ac8": {
+            "0x5f78fbab81f9892bbe379d88c8a224774411b0a9": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xbc23e50c2287f481288f29fecd5ca6ff00c72083": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x67fdb08f645cae74607b807d14c09c400ef4f6b7": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xb61642cdef7f494c603acdb94e2617fbf8a1c5f3": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xb24b54fe5a3adcb4cb3b27d31b6c7f7e9f6a73a7": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x07f58c9792bc03443d7b96ed314800a911a11680": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x20c75587792bd5bfbe96abb680e9faea5b3edd9f": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x3212b29e33587a00fb1c83346f5dbfa69a458923": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x6317c5e82a06e1d8bf200d21f4510ac2c038ac81": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x5228a22e72ccc52d415ecfd199f99d0665e7733b": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xa2881a90bf33f03e7a3f803765cd2ed5c8928dfb": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x91bba529a4e469758cd3832305586fd1e8161edd": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x00000f2d00b7a76100366c0013c2000595ee0067": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xe2d9566a6f0f0c29561da35a8d1cab1430eeaf56": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x498b859d2e59958e209d7dd262324c8d31b12b12": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x40dde6092a77ec2d00eb4fa14f0c5d92d835d673": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x9d22a13c36e10b9630dda6a3a3c0af2076ab88d5": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xdd5a1c148ca114af2f4ebc639ce21fed4730a608": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x103675510a219bd84ce91d1bcb82ca194d665a09": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
             "0xd08131920d9890343f5e2d02fa206a0167b1e235": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xa63d8bbb9b16d913976d8bd23a0dcfec2282bae5": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffff0c1e1b11b7d0be2ae5fc3a1db68662167a15": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffffb089f11f06690ea3cee21f8d8d8e6841ffa4": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xf1ad4bfdf8829d55ec0ce7900ef9d122b2610673": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffc54e24fdd6a28855a61d563f0d50870d548": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff142bb561a627443e4c505e03b668a4fbba7": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff7703e84758d11e9dc0c046f1759b5c4d043": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff7bee659178c9ec0e0ba01ffb024457ef406": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff6ce95d9b9bc31734f61cbf85717450a2453": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff8a3d3e8326976022e685b3104fae51b4405": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff7b5ba670cf3649ca0fb2db5396af13d77e3": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff682b839b77f9583529b8f141190f4bf4c03": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff52c91555536130a417665265182567047a6": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffd7a4656995fbea6fb486fdab13ab904ba81": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffffff3f31cb8be98fc3e2d603cc8d6a92ad4d3c": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff9dcc3d0ddad9ede7b0da228ae72abbefa4a": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff33102c8bbf789d864f3860d03827cb4960e": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -3058,58 +3274,6 @@
                 "raw": "0.000000000000000003",
                 "derived": true
             },
-            "0x303b6c0d8608b6683caff4f7e1cfab556323ee35": {
-                "raw": "0.000000000000000007",
-                "derived": true
-            },
-            "0x3111b7716dcc3ddf8509b3efc320488e9e39faca": {
-                "raw": "0.002538671749687745",
-                "derived": true
-            },
-            "0x31876edc17ba00b071202d4e719fb7d86bcb9270": {
-                "raw": "0.000911516645869198",
-                "derived": true
-            },
-            "0x3230a79c196958980f058d0dbd5e6a5fd3ea1778": {
-                "raw": "0.246945715110286394",
-                "derived": true
-            },
-            "0x381479aef601d864a0b3882e96e23438ff3011e5": {
-                "raw": "0.006274029135304441",
-                "derived": true
-            },
-            "0x39c09fdc4e5c5ab72f6319ddbc2cae40e67b2a60": {
-                "raw": "0.000000079640192833",
-                "derived": true
-            },
-            "0x3a70e8c00f3bcf3eb845b6b6928aba92b465c183": {
-                "raw": "0.007028693451047309",
-                "derived": true
-            },
-            "0x3b59b33a49460c7d4609cf491ad6e946bef5a027": {
-                "raw": "0.000210571184642547",
-                "derived": true
-            },
-            "0x3efd3391a0601eaa093647f911c653d77c11e3fd": {
-                "raw": "0.003301969031167417",
-                "derived": true
-            },
-            "0x4059457092cc3812d56676df6a75fd21204fbe2f": {
-                "raw": "0.027703181566271488",
-                "derived": true
-            },
-            "0x444c996b74631763ce0c406fcbe9aa13d35f395e": {
-                "raw": "0.001982246191283746",
-                "derived": true
-            },
-            "0x4527c75dfc50a5390dc663f81b627c39e7b9acad": {
-                "raw": "0.000000000000000038",
-                "derived": true
-            },
-            "0x4594ab61b53142dafe3a0762cca6ac00d6cf71f3": {
-                "raw": "0.189932771025426674",
-                "derived": true
-            },
             "0x486eaab71360a0e7bade22509a86815b1a2eada2": {
                 "raw": "0.007396043766971277",
                 "derived": true
@@ -3120,6 +3284,14 @@
             },
             "0x4a23135b15417aedeaa7a48c5d5cd80c2b5df300": {
                 "raw": "0.000214326082908057",
+                "derived": true
+            },
+            "0xfffff4d5d0244270a6e3474011a80573893f2025": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff8d15bbabfd139b153be153f9598c53f77d9": {
+                "raw": "0.000000000000000000",
                 "derived": true
             },
             "0x4f99632a3ea59a7197ac566a7976d03f51293ec7": {
@@ -3434,283 +3606,131 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x8418f91b7ac9eaaea472f1c8a2690121f1054e78": {
+            "0xfffff7e0d12431c24c6cf9da2490bd9d331f1228": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x857e6fbb7518fe4fc28667c5581c329f9a571b6c": {
+            "0x4f5f10ad90d3cb4b1be5fa9d3fae507ecf57ddd8": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xbac3919c732e1c0aee6b8d6149a1e773bca12b86": {
+            "0xf8fc902289efd1f2fe3703f76a64c14e239b2544": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x81b5ec3be3d9339299e56665d8206d4d28ece898": {
+            "0x553de6c52ca165f63196b5dd80817f8636d029ac": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xa0ebb63205d4c5dd57202683732dbd2077d1e8bb": {
+            "0x000000000025d4386f7fb58984cbe110aee3a4c4": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x66ada96594b6379ad2536f5fdc11cce235dd99be": {
+            "0xfffff0205b28e68e3fba92c4ee2da6e58aa051c1": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x434ded09939b64cd76baa81f9a394283d4c71f05": {
+            "0xfffff9fe16e86cb70860ec1d1cf50c723c1e1bc3": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x38ab0fde4f152bdbc9e8ac44f0e9f56f092fbe79": {
+            "0xfffff7b18557372f049a460b7096d45c06846bf0": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x4a22c8d17a7287902212d8089d65c0f5b1428ca6": {
+            "0xffff5c32e13cf6ac0c5b20204f0aa0d53f0da29a": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x414354db069cea6fa536c3d2ea1bbf5730b7715c": {
-                "raw": "0.003464916491974300",
-                "derived": true
-            },
-            "0x34fa4af2d182209956fa69d849953a4c0402002a": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x5f78fbab81f9892bbe379d88c8a224774411b0a9": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xbc23e50c2287f481288f29fecd5ca6ff00c72083": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x67fdb08f645cae74607b807d14c09c400ef4f6b7": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xb61642cdef7f494c603acdb94e2617fbf8a1c5f3": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xb24b54fe5a3adcb4cb3b27d31b6c7f7e9f6a73a7": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x07f58c9792bc03443d7b96ed314800a911a11680": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x20c75587792bd5bfbe96abb680e9faea5b3edd9f": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x3212b29e33587a00fb1c83346f5dbfa69a458923": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffcf997a338dabebc43b67a891a5c76ff6c2f": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x6317c5e82a06e1d8bf200d21f4510ac2c038ac81": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x5228a22e72ccc52d415ecfd199f99d0665e7733b": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffffbfbe7d666b3faa91cb9c3991c43b5c8022da": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffb25a9a7b9267f685703a40f6142b28ba76c": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffedd7f2144b783d169f6e975c4a6ee8b4d50": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffb2a87e9e1e4502191fe642b1a7c5c2f8889": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xa2881a90bf33f03e7a3f803765cd2ed5c8928dfb": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x91bba529a4e469758cd3832305586fd1e8161edd": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffe48b74f0882ba53e2b8462201d20bec4fab": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x00000f2d00b7a76100366c0013c2000595ee0067": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xe2d9566a6f0f0c29561da35a8d1cab1430eeaf56": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffff0b18ee6cfa16f0640a5d6d1e4be6fa5a0ea3": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x498b859d2e59958e209d7dd262324c8d31b12b12": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffbcdb0a275f73460582b1f40e0aa10940147": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x40dde6092a77ec2d00eb4fa14f0c5d92d835d673": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x9d22a13c36e10b9630dda6a3a3c0af2076ab88d5": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xdd5a1c148ca114af2f4ebc639ce21fed4730a608": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x103675510a219bd84ce91d1bcb82ca194d665a09": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff3ec6f63fd1d4c0474dcc65a4da48d7e43cd": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffffe2303c8d2f08dfbc87c96411e619d77f3129": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffe23e35d51d3c2d0cbc8c07b3aba0d8a5ddf": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x510b96cef3a581dc45dad3141561124dfb4a4f20": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xe1e855a6259fef1dd53e6aa2910fcba19babd337": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff7ba3ca866a9bf1054cc2fdc2cc7bb819d4b": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffe71df0c1cfa00c161b28431757d5065364c": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffe42f62d3c9153f31d212ba505d338d082a2": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffeccc0739fa6f857be30286195085c748a10": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff2f37b8de262530c748a955651ba57c8ee53": {
+            "0xff910355ad1d3d12e8be75a512553e479726ab45": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff1d0543609e64d325cabd922cc2fcac24e50a": {
+            "0xfffff627a8bcc2d554042c79a9aa6f8ad4088962": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffc26bc0116ddda7f39c50779040b5fbf2d34": {
+            "0xfffff726f102c084d6aee24c2703f16523edbc22": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xc249265d2651d1e373df7a2dafdd6d9ffeeef37b": {
+            "0xffffdc9e27506f95661f4e690d6eca40c0d8692f": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff2e36b01f4aeb3265d4f7d2a842f2ad3e94f": {
+            "0xfffff6eabcfe910849ed8fa8c2f7c3c160745a3c": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff6724ac23af3084412ebec9ef40ab29d1461": {
+            "0xffff5a0d7425a98521f25551886c9b1b5e85032c": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffd1f8e65ec713b01ad40ae61e11dbcaa3379": {
+            "0xffff00684f76075370136b60080693941e87223c": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff5907ab9436ad0d3695c20829c316abfb67e": {
+            "0xffffca75cffadf104a900ab190193272bc6b81b1": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffde9129c575cbad976504352520c8d32678e": {
+            "0xfffffaa968855d39be7c743e6555a86ee20e099d": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffb5e6b4ebd59e087a7965729fda487877eda": {
+            "0xfffffdccb30a822ef31fdd97f5e521ef0fa6bdf9": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff07d068183623277f89213f1e852ea61889d": {
+            "0xfffffdc7a2b1cb11000decb3826053dabb8ae792": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff8f302e8229179ae4dd6dbfe2c7cf633b688": {
+            "0xffffff0cea9fdf1364fbeedba50c6586faef665f": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff5839b1df6ea02be595f81efa087ea5b1fe0": {
+            "0xffff35a53c0a9e93e570371dbf27af1b800148ac": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff0a21979d8ede2748540f5a3b33f6399b97b0": {
+            "0xfffff2c1a8e2516fa4b70db4d6925050aa04db48": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff03ad3f1dda7a7b28455e3c1e6fa5a6ecffd": {
+            "0xfffffa50c90dcc944d5441e8fb2e8775dc1f2b29": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffffff2702a902b76d5f864e84ef1249b1ef2ee8": {
+            "0xfffff2cddc125ee8c837ed95ef5ae7550517d26b": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffc317b3bf80dc2563f28c033116f7a3648b9": {
+            "0xffffd449917b34e2c0f80ae2beb12a61049c49b8": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff88045a01953433fbbfa69dec5d35c7a0043": {
+            "0xfffff1c754f1e2935bcf2c615b7d8f5c53a2a5ea": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff0ced03c6601d506c740338fc0e70666532f": {
+            "0xfffff3ce53a767e35e4d7a43a70c19012a240902": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff2213de7403f9cca629977086cbe4ebc8083": {
+            "0xffff44723b43f90dbc44044c78760841ab6a4f3e": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff3bbd7c3969560328b822be1c55c7d7120d2": {
+            "0xffffd7a83e7a361d67c7b16213839f188bf8661a": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffa5e0a58e445e980deb286571ebed813258c": {
+            "0xfffff92c625601758017935308670df9a5832342": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff08878c5c9a84519634d2cd75d740a5c0ea7": {
+            "0xfffff7d38d51b3a43c3b23ac31504ed66fa7e19a": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -4914,27 +4934,19 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
+            "0xfffff7ba3ca866a9bf1054cc2fdc2cc7bb819d4b": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
             "0xfffff8b220850dc0fe8714c9cdb4ac566672ea64": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff8bdcabcab842ed891d5f94039fc303ea4fe": {
+            "0xfffffe71df0c1cfa00c161b28431757d5065364c": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff6c8787a9db0e789b2997f8495bb47d21da1": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff71382407a8c13dfd455c36dd920cf098400": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffe9d317df4173a795b5dfe3c5fcc148f021e": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffffc28dde000d4354ba7680cc66f02f9b67a003": {
+            "0xfffffe42f62d3c9153f31d212ba505d338d082a2": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -4942,131 +4954,159 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x4f5f10ad90d3cb4b1be5fa9d3fae507ecf57ddd8": {
+            "0xffffc28dde000d4354ba7680cc66f02f9b67a003": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xf8fc902289efd1f2fe3703f76a64c14e239b2544": {
+            "0xfffffe9d317df4173a795b5dfe3c5fcc148f021e": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x553de6c52ca165f63196b5dd80817f8636d029ac": {
+            "0xfffff71382407a8c13dfd455c36dd920cf098400": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x000000000025d4386f7fb58984cbe110aee3a4c4": {
+            "0xfffff6c8787a9db0e789b2997f8495bb47d21da1": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff0205b28e68e3fba92c4ee2da6e58aa051c1": {
+            "0xfffff8bdcabcab842ed891d5f94039fc303ea4fe": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff9fe16e86cb70860ec1d1cf50c723c1e1bc3": {
+            "0xfffff08878c5c9a84519634d2cd75d740a5c0ea7": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff7b18557372f049a460b7096d45c06846bf0": {
+            "0xfffffa5e0a58e445e980deb286571ebed813258c": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff5c32e13cf6ac0c5b20204f0aa0d53f0da29a": {
+            "0xfffff3bbd7c3969560328b822be1c55c7d7120d2": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xff910355ad1d3d12e8be75a512553e479726ab45": {
+            "0xfffff2213de7403f9cca629977086cbe4ebc8083": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff627a8bcc2d554042c79a9aa6f8ad4088962": {
+            "0xfffff0ced03c6601d506c740338fc0e70666532f": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff726f102c084d6aee24c2703f16523edbc22": {
+            "0xfffff88045a01953433fbbfa69dec5d35c7a0043": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffffdc9e27506f95661f4e690d6eca40c0d8692f": {
+            "0xfffffc317b3bf80dc2563f28c033116f7a3648b9": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff6eabcfe910849ed8fa8c2f7c3c160745a3c": {
+            "0xffffff2702a902b76d5f864e84ef1249b1ef2ee8": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff5a0d7425a98521f25551886c9b1b5e85032c": {
+            "0xfffff03ad3f1dda7a7b28455e3c1e6fa5a6ecffd": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff00684f76075370136b60080693941e87223c": {
+            "0xffff0a21979d8ede2748540f5a3b33f6399b97b0": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffffca75cffadf104a900ab190193272bc6b81b1": {
+            "0xfffff5839b1df6ea02be595f81efa087ea5b1fe0": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffaa968855d39be7c743e6555a86ee20e099d": {
+            "0xfffff8f302e8229179ae4dd6dbfe2c7cf633b688": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffdccb30a822ef31fdd97f5e521ef0fa6bdf9": {
+            "0xfffff07d068183623277f89213f1e852ea61889d": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff7e0d12431c24c6cf9da2490bd9d331f1228": {
+            "0xfffffb5e6b4ebd59e087a7965729fda487877eda": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffdc7a2b1cb11000decb3826053dabb8ae792": {
+            "0xfffffde9129c575cbad976504352520c8d32678e": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffffff0cea9fdf1364fbeedba50c6586faef665f": {
+            "0xfffff5907ab9436ad0d3695c20829c316abfb67e": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff35a53c0a9e93e570371dbf27af1b800148ac": {
+            "0xfffffd1f8e65ec713b01ad40ae61e11dbcaa3379": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff2c1a8e2516fa4b70db4d6925050aa04db48": {
+            "0xfffff6724ac23af3084412ebec9ef40ab29d1461": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffffa50c90dcc944d5441e8fb2e8775dc1f2b29": {
+            "0xfffff2e36b01f4aeb3265d4f7d2a842f2ad3e94f": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff2cddc125ee8c837ed95ef5ae7550517d26b": {
+            "0xc249265d2651d1e373df7a2dafdd6d9ffeeef37b": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffffd449917b34e2c0f80ae2beb12a61049c49b8": {
+            "0xfffffc26bc0116ddda7f39c50779040b5fbf2d34": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff1c754f1e2935bcf2c615b7d8f5c53a2a5ea": {
+            "0xffff1d0543609e64d325cabd922cc2fcac24e50a": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff3ce53a767e35e4d7a43a70c19012a240902": {
+            "0xfffff2f37b8de262530c748a955651ba57c8ee53": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffff44723b43f90dbc44044c78760841ab6a4f3e": {
+            "0xfffffeccc0739fa6f857be30286195085c748a10": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xffffd7a83e7a361d67c7b16213839f188bf8661a": {
+            "0xfffff4424654071ee17fbe45e3bcb24377890c56": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff92c625601758017935308670df9a5832342": {
+            "0x8b66bd4e5060ecdf971b68abb4ed4641a86849b6": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff7d38d51b3a43c3b23ac31504ed66fa7e19a": {
+            "0xa3edba6e1dc561eca26b278abeaf93bd32b1891b": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xd1b6a9fe7a221da43e8934c207bcfd1bc5cf36d5": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffff7a0c72ab8411441c71fb8c227ced5108828": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x66f37100a794d591417373b12e2503666fe83f69": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xe7b17abbc434570c39377de7afc4363c8f272623": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xffff4dc4622b3e9d19a387b0ce224b1569f4e12a": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x264ca432040484b9ba30738839e806101ddbdfbb": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0xfffffa155bec70586dcbc2fbc0d282ec04a1211a": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -5142,6 +5182,10 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
+            "0xfffff414ead2090215334049d6d178b5d71113fc": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
             "0xfffff695534611a6e6d2a2fb5f715002996ff083": {
                 "raw": "0.000000000000000000",
                 "derived": true
@@ -5179,10 +5223,6 @@
                 "derived": true
             },
             "0xffffd1b074ea501eae3bc3c599d81f9f69ddcad1": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xb08fd15efcf3f54f6831857102a854e3715b67df": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -5246,7 +5286,7 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff414ead2090215334049d6d178b5d71113fc": {
+            "0xb08fd15efcf3f54f6831857102a854e3715b67df": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -5398,63 +5438,19 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xfffff4424654071ee17fbe45e3bcb24377890c56": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x8b66bd4e5060ecdf971b68abb4ed4641a86849b6": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xa3edba6e1dc561eca26b278abeaf93bd32b1891b": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xd1b6a9fe7a221da43e8934c207bcfd1bc5cf36d5": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffff7a0c72ab8411441c71fb8c227ced5108828": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x66f37100a794d591417373b12e2503666fe83f69": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xe7b17abbc434570c39377de7afc4363c8f272623": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xffff4dc4622b3e9d19a387b0ce224b1569f4e12a": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x264ca432040484b9ba30738839e806101ddbdfbb": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xfffffa155bec70586dcbc2fbc0d282ec04a1211a": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0xd2d3f61e6f169e8d358dfac7274bd4bcdf3dee12": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
             "0x244505cd66dc4cc15e58b61e0cd068d464229010": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0x049940feda4277b7f01ef10fca0b975c541d8fca": {
-                "raw": "0.000000000000000000",
-                "derived": true
-            },
-            "0x01c61dfb5c0ea5186c9256ab48120633a9f0dd81": {
+            "0xeb911b242a3a7e6cd22f100579da2fbe1a10f732": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
             "0x035e8e3fa24b2865c182e52ab1de413f6ec8e5de": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x01c61dfb5c0ea5186c9256ab48120633a9f0dd81": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -5474,7 +5470,11 @@
                 "raw": "0.000000000000000000",
                 "derived": true
             },
-            "0xeb911b242a3a7e6cd22f100579da2fbe1a10f732": {
+            "0xd2d3f61e6f169e8d358dfac7274bd4bcdf3dee12": {
+                "raw": "0.000000000000000000",
+                "derived": true
+            },
+            "0x049940feda4277b7f01ef10fca0b975c541d8fca": {
                 "raw": "0.000000000000000000",
                 "derived": true
             },
@@ -5507,10 +5507,10 @@
                 "raw": "494.999999999999999010",
                 "derived": true
             },
-            "0x80f181cd9a97dc23354cd7cf755bb63ec7dc2a2a": {
+            "0xd152f549545093347a162dce210e7293f1452150": {
                 "raw": "0.000000000000000000"
             },
-            "0xd152f549545093347a162dce210e7293f1452150": {
+            "0x80f181cd9a97dc23354cd7cf755bb63ec7dc2a2a": {
                 "raw": "0.000000000000000000"
             },
             "totalBalances": "494.999999999999999010",
